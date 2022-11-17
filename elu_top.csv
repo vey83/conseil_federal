@@ -1,5 +1,4 @@
 name,partei,date,tour,elu_pour,voix_total,delivres,rentres,blancs,nuls,valables,maj_absolue
-Captain America,USA,2022-12-07,1,100,246,246,246,6,0,240,121
 "Hoffmann, Arthur",FDP,1911-04-04,1,95.38,186,196,195,3,0,192,97
 "Motta, Giuseppe",CVP,1911-12-14,1,89.32,184,207,206,7,0,199,100
 "Decoppet, Camille",FDP,1912-07-17,1,87.82,173,197,197,13,0,184,93
@@ -19,3 +18,4 @@ Captain America,USA,2022-12-07,1,100,246,246,246,6,0,240,121
 "Perrier, Louis",FDP,1912-03-12,1,75.12,160,216,213,21,0,192,97
 "Koller, Arnold",CVP,1986-12-10,1,74.07,180,244,243,0,1,242,122
 "Gnägi, Rudolf",SVP,1965-12-15,1,73.64,176,242,239,23,1,215,108
+"Zemp, Joseph",CVP,1891-12-17,1,70.49,129,183,183,28,1,154,78
