@@ -1,21 +1,21 @@
-name,partei,date,tour,elu_pour,voix_total,delivres,rentres,blancs,nuls,valables,maj_absolue
-"Hoffmann, Arthur",FDP,1911-04-04,1,95.38,186,196,195,3,0,192,97
-"Motta, Giuseppe",CVP,1911-12-14,1,89.32,184,207,206,7,0,199,100
-"Decoppet, Camille",FDP,1912-07-17,1,87.82,173,197,197,13,0,184,93
-"Comtesse, Robert",FDP,1899-12-14,1,82.22,148,180,180,3,0,177,89
-"Lachenal, Adrien",FDP,1892-12-15,1,80.81,139,174,172,3,0,169,85
-"Feldmann, Markus",SVP,1951-12-13,1,80,184,232,230,27,1,202,102
-"Müller, Eduard",FDP,1895-08-16,1,80,136,171,170,6,0,164,83
-"Holenstein, Thomas",CVP,1954-12-16,1,77.78,182,234,234,19,0,215,108
-"Ruffy, Victor",FDP,1867-12-06,1,77.42,120,155,155,0,0,155,78
-"Graber, Pierre",SP,1969-12-10,1,77.37,188,243,243,22,0,221,111
-"Schobinger, Josef Anton",CVP,1908-06-17,1,77.05,141,188,183,5,0,178,90
-"Ador, Gustav",LDP,1917-06-26,1,76.71,168,219,219,27,0,192,97
-"Schaffner, Hans",FDP,1961-06-15,1,75.43,175,233,232,15,3,214,108
-"Escher, Josef",CVP,1950-09-04,1,75.34,165,219,219,22,0,197,99
-"Honegger, Fritz",FDP,1977-12-07,1,75.22,173,240,230,20,2,208,105
-"Haab, Robert",FDP,1917-12-13,1,75.12,163,217,217,9,0,208,105
-"Perrier, Louis",FDP,1912-03-12,1,75.12,160,216,213,21,0,192,97
-"Koller, Arnold",CVP,1986-12-10,1,74.07,180,244,243,0,1,242,122
-"Gnägi, Rudolf",SVP,1965-12-15,1,73.64,176,242,239,23,1,215,108
-"Zemp, Joseph",CVP,1891-12-17,1,70.49,129,183,183,28,1,154,78
+name,partei,date,tour,elu,voix_total,delivres,rentres,blancs,nuls,valables,maj_absolue,elu_pour,blanc_pour,nuls_pour,annee,mois,jour,elec_nr,elec_nr_tot,colour,parti,formule_magique,decennies,periodes
+"Hoffmann, Arthur",FDP,1911-04-04,1,TRUE,186,196,195,3,0,192,97,95.38,1.54,0,1911,04,04,1,39,deepskyblue2,PLR,Avant la formule magique,1910-1919,1848-1914
+"Motta, Giuseppe",CVP,1911-12-14,1,TRUE,184,207,206,7,0,199,100,89.32,3.4,0,1911,12,14,1,40,orange2,PDC,Avant la formule magique,1910-1919,1848-1914
+"Decoppet, Camille",FDP,1912-07-17,1,TRUE,173,197,197,13,0,184,93,87.82,6.6,0,1912,07,17,1,42,deepskyblue2,PLR,Avant la formule magique,1910-1919,1848-1914
+"Comtesse, Robert",FDP,1899-12-14,1,TRUE,148,180,180,3,0,177,89,82.22,1.67,0,1899,12,14,1,35,deepskyblue2,PLR,Avant la formule magique,1890-1899,1848-1914
+"Lachenal, Adrien",FDP,1892-12-15,1,TRUE,139,174,172,3,0,169,85,80.81,1.74,0,1892,12,15,1,31,deepskyblue2,PLR,Avant la formule magique,1890-1899,1848-1914
+"Feldmann, Markus",SVP,1951-12-13,1,TRUE,184,232,230,27,1,202,102,80,11.74,0.43,1951,12,13,1,66,olivedrab3,UDC,Avant la formule magique,1950-1959,1915-1959
+"Müller, Eduard",FDP,1895-08-16,1,TRUE,136,171,170,6,0,164,83,80,3.53,0,1895,08,16,1,33,deepskyblue2,PLR,Avant la formule magique,1890-1899,1848-1914
+"Holenstein, Thomas",CVP,1954-12-16,1,TRUE,182,234,234,19,0,215,108,77.78,8.12,0,1954,12,16,2,69,orange2,PDC,Avant la formule magique,1950-1959,1915-1959
+"Ruffy, Victor",FDP,1867-12-06,1,TRUE,120,155,155,0,0,155,78,77.42,0,0,1867,12,06,1,16,deepskyblue2,PLR,Avant la formule magique,1860-1869,1848-1914
+"Graber, Pierre",SP,1969-12-10,1,TRUE,188,243,243,22,0,221,111,77.37,9.05,0,1969,12,10,2,81,firebrick2,PS,Depuis la formule magique,1960-1969,1960-2003
+"Schobinger, Josef Anton",CVP,1908-06-17,1,TRUE,141,188,183,5,0,178,90,77.05,2.73,0,1908,06,17,1,38,orange2,PDC,Avant la formule magique,1900-1909,1848-1914
+"Ador, Gustav",LDP,1917-06-26,1,TRUE,168,219,219,27,0,192,97,76.71,12.33,0,1917,06,26,1,45,deepskyblue2,PLR,Avant la formule magique,1910-1919,1915-1959
+"Schaffner, Hans",FDP,1961-06-15,1,TRUE,175,233,232,15,3,214,108,75.43,6.47,1.29,1961,06,15,1,77,deepskyblue2,PLR,Depuis la formule magique,1960-1969,1960-2003
+"Escher, Josef",CVP,1950-09-04,1,TRUE,165,219,219,22,0,197,99,75.34,10.05,0,1950,09,04,1,65,orange2,PDC,Avant la formule magique,1950-1959,1915-1959
+"Honegger, Fritz",FDP,1977-12-07,1,TRUE,173,240,230,20,2,208,105,75.22,8.7,0.87,1977,12,07,2,87,deepskyblue2,PLR,Depuis la formule magique,1970-1979,1960-2003
+"Haab, Robert",FDP,1917-12-13,1,TRUE,163,217,217,9,0,208,105,75.12,4.15,0,1917,12,13,1,46,deepskyblue2,PLR,Avant la formule magique,1910-1919,1915-1959
+"Perrier, Louis",FDP,1912-03-12,1,TRUE,160,216,213,21,0,192,97,75.12,9.86,0,1912,03,12,1,41,deepskyblue2,PLR,Avant la formule magique,1910-1919,1848-1914
+"Koller, Arnold",CVP,1986-12-10,1,TRUE,180,244,243,0,1,242,122,74.07,0,0.41,1986,12,10,2,95,orange2,PDC,Depuis la formule magique,1980-1989,1960-2003
+"Gnägi, Rudolf",SVP,1965-12-15,1,TRUE,176,242,239,23,1,215,108,73.64,9.62,0.42,1965,12,15,1,79,olivedrab3,UDC,Depuis la formule magique,1960-1969,1960-2003
+"Zemp, Joseph",CVP,1891-12-17,1,TRUE,129,183,183,28,1,154,78,70.49,15.3,0.55,1891,12,17,1,30,orange2,PDC,Avant la formule magique,1890-1899,1848-1914
