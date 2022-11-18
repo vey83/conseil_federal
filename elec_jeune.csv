@@ -1,0 +1,113 @@
+name,partei,kanton,age_elec,gewahlt,Partei,Nom et prénom,Name Vorname,ITname,Kanton,Canton,Cantone,Date de l'élection,Wahltag,IT_gewahlt,Age lors de l'élection,DE_age_elec,IT_age_elec,Parti,Partito
+"Droz, Numa",FDP,NE,31.89,1875-12-18,FDP,"Droz, Numa","Droz, Numa","Droz, Numa",NE,NE,NE,1875-12-18,1875-12-18,1875-12-18,31.89,31.89,31.89,PLR,PLR
+"Stämpfli, Jakob",FDP,BE,34.78,1854-12-06,FDP,"Stämpfli, Jakob","Stämpfli, Jakob","Stämpfli, Jakob",BE,BE,BE,1854-12-06,1854-12-06,1854-12-06,34.78,34.78,34.78,PLR,PLR
+"Metzler-Arnold, Ruth",CVP,AI,34.8,1999-03-11,CVP,"Metzler-Arnold, Ruth","Metzler-Arnold, Ruth","Metzler-Arnold, Ruth",AI,AI,AI,1999-03-11,1999-03-11,1999-03-11,34.8,34.8,34.8,Le Centre,Il Centro
+"Fornerod, Constant",FDP,VD,36.11,1855-07-11,FDP,"Fornerod, Constant","Fornerod, Constant","Fornerod, Constant",VD,VD,VD,1855-07-11,1855-07-11,1855-07-11,36.11,36.11,36.11,PLR,PLR
+"Ochsenbein, Ulrich",FDP,BE,36.98,1848-11-16,FDP,"Ochsenbein, Ulrich","Ochsenbein, Ulrich","Ochsenbein, Ulrich",BE,BE,BE,1848-11-16,1848-11-16,1848-11-16,36.98,36.98,36.98,PLR,PLR
+"Ceresole, Paul",FDP,VD,37.21,1870-02-01,FDP,"Ceresole, Paul","Ceresole, Paul","Ceresole, Paul",VD,VD,VD,1870-02-01,1870-02-01,1870-02-01,37.21,37.21,37.21,PLR,PLR
+"Borel, Eugène",FDP,NE,37.48,1872-12-07,FDP,"Borel, Eugène","Borel, Eugène","Borel, Eugène",NE,NE,NE,1872-12-07,1872-12-07,1872-12-07,37.48,37.48,37.48,PLR,PLR
+"Pilet-Golaz, Marcel",FDP,VD,38.95,1928-12-13,FDP,"Pilet-Golaz, Marcel","Pilet-Golaz, Marcel","Pilet-Golaz, Marcel",VD,VD,VD,1928-12-13,1928-12-13,1928-12-13,38.95,38.95,38.95,PLR,PLR
+"Dubs, Jakob",FDP,ZH,39.01,1861-07-30,FDP,"Dubs, Jakob","Dubs, Jakob","Dubs, Jakob",ZH,ZH,ZH,1861-07-30,1861-07-30,1861-07-30,39.01,39.01,39.01,PLR,PLR
+"Berset, Alain",SP,FR,39.68,2011-12-14,SP,"Berset, Alain","Berset, Alain","Berset, Alain",FR,FR,FR,2011-12-14,2011-12-14,2011-12-14,39.68,39.68,39.68,PS,PS
+"Motta, Giuseppe",CVP,TI,39.96,1911-12-14,CVP,"Motta, Giuseppe","Motta, Giuseppe","Motta, Giuseppe",TI,TI,TI,1911-12-14,1911-12-14,1911-12-14,39.96,39.96,39.96,Le Centre,Il Centro
+"Schenk, Karl",FDP,BE,40.03,1863-12-12,FDP,"Schenk, Karl","Schenk, Karl","Schenk, Karl",BE,BE,BE,1863-12-12,1863-12-12,1863-12-12,40.03,40.03,40.03,PLR,PLR
+"Brenner, Ernst",FDP,BS,40.29,1897-03-25,FDP,"Brenner, Ernst","Brenner, Ernst","Brenner, Ernst",BS,BS,BS,1897-03-25,1897-03-25,1897-03-25,40.29,40.29,40.29,PLR,PLR
+"Welti, Emil",FDP,AG,41.63,1866-12-08,FDP,"Welti, Emil","Welti, Emil","Welti, Emil",AG,AG,AG,1866-12-08,1866-12-08,1866-12-08,41.63,41.63,41.63,PLR,PLR
+"Knüsel, Josef Martin",FDP,LU,41.66,1855-07-14,FDP,"Knüsel, Josef Martin","Knüsel, Josef Martin","Knüsel, Josef Martin",LU,LU,LU,1855-07-14,1855-07-14,1855-07-14,41.66,41.66,41.66,PLR,PLR
+"Leuthard, Doris",CVP,AG,43.18,2006-06-14,CVP,"Leuthard, Doris","Leuthard, Doris","Leuthard, Doris",AG,AG,AG,2006-06-14,2006-06-14,2006-06-14,43.18,43.18,43.18,Le Centre,Il Centro
+"Lachenal, Adrien",FDP,GE,43.58,1892-12-15,FDP,"Lachenal, Adrien","Lachenal, Adrien","Lachenal, Adrien",GE,GE,GE,1892-12-15,1892-12-15,1892-12-15,43.58,43.58,43.58,PLR,PLR
+"Musy, Jean-Marie",CVP,FR,43.67,1919-12-11,CVP,"Musy, Jean-Marie","Musy, Jean-Marie","Musy, Jean-Marie",FR,FR,FR,1919-12-11,1919-12-11,1919-12-11,43.67,43.67,43.67,Le Centre,Il Centro
+"Furrer, Jonas",FDP,ZH,43.71,1848-11-16,FDP,"Furrer, Jonas","Furrer, Jonas","Furrer, Jonas",ZH,ZH,ZH,1848-11-16,1848-11-16,1848-11-16,43.71,43.71,43.71,PLR,PLR
+"Schulthess, Edmund",FDP,AG,44.37,1912-07-17,FDP,"Schulthess, Edmund","Schulthess, Edmund","Schulthess, Edmund",AG,AG,AG,1912-07-17,1912-07-17,1912-07-17,44.37,44.37,44.37,PLR,PLR
+"Ruffy, Victor",FDP,VD,44.88,1867-12-06,FDP,"Ruffy, Victor","Ruffy, Victor","Ruffy, Victor",VD,VD,VD,1867-12-06,1867-12-06,1867-12-06,44.88,44.88,44.88,PLR,PLR
+"Ogi, Adolf",SVP,BE,45.39,1987-12-09,SVP,"Ogi, Adolf","Ogi, Adolf","Ogi, Adolf",BE,BE,BE,1987-12-09,1987-12-09,1987-12-09,45.39,45.39,45.39,UDC,UDC
+"Petitpierre, Max",FDP,NE,45.8,1944-12-14,FDP,"Petitpierre, Max","Petitpierre, Max","Petitpierre, Max",NE,NE,NE,1944-12-14,1944-12-14,1944-12-14,45.8,45.8,45.8,PLR,PLR
+"Tschudi, Hans-Peter",SP,BS,46.15,1959-12-17,SP,"Tschudi, Hans-Peter","Tschudi, Hans-Peter","Tschudi, Hans-Peter",BS,BS,BS,1959-12-17,1959-12-17,1959-12-17,46.15,46.15,46.15,PS,PS
+"Ruchet, Marc-Emile",FDP,VD,46.25,1899-12-14,FDP,"Ruchet, Marc-Emile","Ruchet, Marc-Emile","Ruchet, Marc-Emile",VD,VD,VD,1899-12-14,1899-12-14,1899-12-14,46.25,46.25,46.25,PLR,PLR
+"Scherer, Johann Jakob",FDP,ZH,46.67,1872-07-12,FDP,"Scherer, Johann Jakob","Scherer, Johann Jakob","Scherer, Johann Jakob",ZH,ZH,ZH,1872-07-12,1872-07-12,1872-07-12,46.67,46.67,46.67,PLR,PLR
+"Naeff, Wilhelm Math.",FDP,SG,46.74,1848-11-16,FDP,"Naeff, Wilhelm Math.","Naeff, Wilhelm Math.","Naeff, Wilhelm Math.",SG,SG,SG,1848-11-16,1848-11-16,1848-11-16,46.74,46.74,46.74,PLR,PLR
+"Müller, Eduard",FDP,BE,46.76,1895-08-16,FDP,"Müller, Eduard","Müller, Eduard","Müller, Eduard",BE,BE,BE,1895-08-16,1895-08-16,1895-08-16,46.76,46.76,46.76,PLR,PLR
+"Ruchonnet, Louis",FDP,VD,46.85,1881-03-03,FDP,"Ruchonnet, Louis","Ruchonnet, Louis","Ruchonnet, Louis",VD,VD,VD,1881-03-03,1881-03-03,1881-03-03,46.85,46.85,46.85,PLR,PLR
+"Frey-Herosee, Friedrich",FDP,AG,47.1,1848-11-16,FDP,"Frey-Herosee, Friedrich","Frey-Herosee, Friedrich","Frey-Herosee, Friedrich",AG,AG,AG,1848-11-16,1848-11-16,1848-11-16,47.1,47.1,47.1,PLR,PLR
+"Cotti, Flavio",CVP,TI,47.15,1986-12-10,CVP,"Cotti, Flavio","Cotti, Flavio","Cotti, Flavio",TI,TI,TI,1986-12-10,1986-12-10,1986-12-10,47.15,47.15,47.15,Le Centre,Il Centro
+"Scheurer, Karl",FDP,BE,47.2,1919-12-11,FDP,"Scheurer, Karl","Scheurer, Karl","Scheurer, Karl",BE,BE,BE,1919-12-11,1919-12-11,1919-12-11,47.2,47.2,47.2,PLR,PLR
+"Anderwert, Fridolin",FDP,TG,47.22,1875-12-10,FDP,"Anderwert, Fridolin","Anderwert, Fridolin","Anderwert, Fridolin",TG,TG,TG,1875-12-10,1875-12-10,1875-12-10,47.22,47.22,47.22,PLR,PLR
+"Furgler, Kurt",CVP,SG,47.46,1971-12-08,CVP,"Furgler, Kurt","Furgler, Kurt","Furgler, Kurt",SG,SG,SG,1971-12-08,1971-12-08,1971-12-08,47.46,47.46,47.46,Le Centre,Il Centro
+"Kopp, Elisabeth",FDP,ZH,47.79,1984-10-02,FDP,"Kopp, Elisabeth","Kopp, Elisabeth","Kopp, Elisabeth",ZH,ZH,ZH,1984-10-02,1984-10-02,1984-10-02,47.79,47.79,47.79,PLR,PLR
+"Delamuraz, Jean-Pascal",FDP,VD,47.92,1983-12-07,FDP,"Delamuraz, Jean-Pascal","Delamuraz, Jean-Pascal","Delamuraz, Jean-Pascal",VD,VD,VD,1983-12-07,1983-12-07,1983-12-07,47.92,47.92,47.92,PLR,PLR
+"Villiger, Kaspar",FDP,LU,47.99,1989-02-01,FDP,"Villiger, Kaspar","Villiger, Kaspar","Villiger, Kaspar",LU,LU,LU,1989-02-01,1989-02-01,1989-02-01,47.99,47.99,47.99,PLR,PLR
+"Minger, Rudolf",SVP,BE,48.08,1929-12-12,SVP,"Minger, Rudolf","Minger, Rudolf","Minger, Rudolf",BE,BE,BE,1929-12-12,1929-12-12,1929-12-12,48.08,48.08,48.08,UDC,UDC
+"Gnägi, Rudolf",SVP,BE,48.35,1965-12-08,SVP,"Gnägi, Rudolf","Gnägi, Rudolf","Gnägi, Rudolf",BE,BE,BE,1965-12-08,1965-12-08,1965-12-08,48.35,48.35,48.35,UDC,UDC
+"Pioda, Giovanni Battista",FDP,TI,48.82,1857-07-30,FDP,"Pioda, Giovanni Battista","Pioda, Giovanni Battista","Pioda, Giovanni Battista",TI,TI,TI,1857-07-30,1857-07-30,1857-07-30,48.82,48.82,48.82,PLR,PLR
+"Leuenberger, Moritz",SP,ZH,49.02,1995-09-27,SP,"Leuenberger, Moritz","Leuenberger, Moritz","Leuenberger, Moritz",ZH,ZH,ZH,1995-09-27,1995-09-27,1995-09-27,49.02,49.02,49.02,PS,PS
+"Kobelt, Karl",FDP,SG,49.36,1940-12-10,FDP,"Kobelt, Karl","Kobelt, Karl","Kobelt, Karl",SG,SG,SG,1940-12-10,1940-12-10,1940-12-10,49.36,49.36,49.36,PLR,PLR
+"Burkhalter, Didier",FDP,NE,49.42,2009-09-16,FDP,"Burkhalter, Didier","Burkhalter, Didier","Burkhalter, Didier",NE,NE,NE,2009-09-16,2009-09-16,2009-09-16,49.42,49.42,49.42,PLR,PLR
+"Calonder, Felix L.",FDP,GR,49.51,1913-06-12,FDP,"Calonder, Felix L.","Calonder, Felix L.","Calonder, Felix L.",GR,GR,GR,1913-06-12,1913-06-12,1913-06-12,49.51,49.51,49.51,PLR,PLR
+"Druey, Daniel-Henri",FDP,VD,49.6,1848-11-16,FDP,"Druey, Daniel-Henri","Druey, Daniel-Henri","Druey, Daniel-Henri",VD,VD,VD,1848-11-16,1848-11-16,1848-11-16,49.6,49.6,49.6,PLR,PLR
+"von Moos, Ludwig",CVP,OW,49.88,1959-12-17,CVP,"von Moos, Ludwig","von Moos, Ludwig","von Moos, Ludwig",OW,OW,OW,1959-12-17,1959-12-17,1959-12-17,49.88,49.88,49.88,Le Centre,Il Centro
+"Chaudet, Paul",FDP,VD,50.08,1954-12-16,FDP,"Chaudet, Paul","Chaudet, Paul","Chaudet, Paul",VD,VD,VD,1954-12-16,1954-12-16,1954-12-16,50.08,50.08,50.08,PLR,PLR
+"Decoppet, Camille",FDP,VD,50.12,1912-07-17,FDP,"Decoppet, Camille","Decoppet, Camille","Decoppet, Camille",VD,VD,VD,1912-07-17,1912-07-17,1912-07-17,50.12,50.12,50.12,PLR,PLR
+"Heer, Joachim",FDP,GL,50.21,1875-12-10,FDP,"Heer, Joachim","Heer, Joachim","Heer, Joachim",GL,GL,GL,1875-12-10,1875-12-10,1875-12-10,50.21,50.21,50.21,PLR,PLR
+"Sommaruga, Simonetta",SP,BE,50.36,2010-09-22,SP,"Sommaruga, Simonetta","Sommaruga, Simonetta","Sommaruga, Simonetta",BE,BE,BE,2010-09-22,2010-09-22,2010-09-22,50.36,50.36,50.36,PS,PS
+"Celio, Enrico",CVP,TI,50.67,1940-02-22,CVP,"Celio, Enrico","Celio, Enrico","Celio, Enrico",TI,TI,TI,1940-02-22,1940-02-22,1940-02-22,50.67,50.67,50.67,Le Centre,Il Centro
+"Aubert, Pierre",SP,NE,50.77,1977-12-07,SP,"Aubert, Pierre","Aubert, Pierre","Aubert, Pierre",NE,NE,NE,1977-12-07,1977-12-07,1977-12-07,50.77,50.77,50.77,PS,PS
+"Rubattel, Rodolphe",FDP,VD,51.26,1947-12-11,FDP,"Rubattel, Rodolphe","Rubattel, Rodolphe","Rubattel, Rodolphe",VD,VD,VD,1947-12-11,1947-12-11,1947-12-11,51.26,51.26,51.26,PLR,PLR
+"Häberlin, Heinrich",FDP,TG,51.43,1920-02-12,FDP,"Häberlin, Heinrich","Häberlin, Heinrich","Häberlin, Heinrich",TG,TG,TG,1920-02-12,1920-02-12,1920-02-12,51.43,51.43,51.43,PLR,PLR
+"Hauser, Walter",FDP,ZH,51.62,1888-12-13,FDP,"Hauser, Walter","Hauser, Walter","Hauser, Walter",ZH,ZH,ZH,1888-12-13,1888-12-13,1888-12-13,51.62,51.62,51.62,PLR,PLR
+"Widmer-Schlumpf, Eveline",SVP / BDP 2),GR,51.74,2007-12-12,SVP,"Widmer-Schlumpf, Eveline","Widmer-Schlumpf, Eveline","Widmer-Schlumpf, Eveline",GR,GR,GR,2007-12-12,2007-12-12,2007-12-12,51.74,51.74,51.74,NA,NA
+"Franscini, Stefano",FDP,TI,52.06,1848-11-16,FDP,"Franscini, Stefano","Franscini, Stefano","Franscini, Stefano",TI,TI,TI,1848-11-16,1848-11-16,1848-11-16,52.06,52.06,52.06,PLR,PLR
+"Frey, Emil",FDP,BL,52.13,1890-12-11,FDP,"Frey, Emil","Frey, Emil","Frey, Emil",BL,BL,BL,1890-12-11,1890-12-11,1890-12-11,52.13,52.13,52.13,PLR,PLR
+"Deucher, Adolf",FDP,TG,52.15,1883-04-10,FDP,"Deucher, Adolf","Deucher, Adolf","Deucher, Adolf",TG,TG,TG,1883-04-10,1883-04-10,1883-04-10,52.15,52.15,52.15,PLR,PLR
+"Haab, Robert",FDP,ZH,52.34,1917-12-13,FDP,"Haab, Robert","Haab, Robert","Haab, Robert",ZH,ZH,ZH,1917-12-13,1917-12-13,1917-12-13,52.34,52.34,52.34,PLR,PLR
+"Schaffner, Hans",FDP,AG,52.5,1961-06-15,FDP,"Schaffner, Hans","Schaffner, Hans","Schaffner, Hans",AG,AG,AG,1961-06-15,1961-06-15,1961-06-15,52.5,52.5,52.5,PLR,PLR
+"Lepori, Giuseppe",CVP,TI,52.54,1954-12-16,CVP,"Lepori, Giuseppe","Lepori, Giuseppe","Lepori, Giuseppe",TI,TI,TI,1954-12-16,1954-12-16,1954-12-16,52.54,52.54,52.54,Le Centre,Il Centro
+"Celio, Nello",FDP,TI,52.84,1966-12-15,FDP,"Celio, Nello","Celio, Nello","Celio, Nello",TI,TI,TI,1966-12-15,1966-12-15,1966-12-15,52.84,52.84,52.84,PLR,PLR
+"Obrecht, Hermann",FDP,SO,53.02,1935-04-04,FDP,"Obrecht, Hermann","Obrecht, Hermann","Obrecht, Hermann",SO,SO,SO,1935-04-04,1935-04-04,1935-04-04,53.02,53.02,53.02,PLR,PLR
+"Deiss, Joseph",CVP,FR,53.14,1999-03-11,CVP,"Deiss, Joseph","Deiss, Joseph","Deiss, Joseph",FR,FR,FR,1999-03-11,1999-03-11,1999-03-11,53.14,53.14,53.14,Le Centre,Il Centro
+"Challet-Venel, J.-Jacques",FDP,GE,53.17,1864-07-12,FDP,"Challet-Venel, J.-Jacques","Challet-Venel, J.-Jacques","Challet-Venel, J.-Jacques",GE,GE,GE,1864-07-12,1864-07-12,1864-07-12,53.17,53.17,53.17,PLR,PLR
+"Dreifuss, Ruth",SP,GE,53.17,1993-03-10,SP,"Dreifuss, Ruth","Dreifuss, Ruth","Dreifuss, Ruth",GE,GE,GE,1993-03-10,1993-03-10,1993-03-10,53.17,53.17,53.17,PS,PS
+"Bavier, Simeon",FDP,GR,53.23,1878-12-10,FDP,"Bavier, Simeon","Bavier, Simeon","Bavier, Simeon",GR,GR,GR,1878-12-10,1878-12-10,1878-12-10,53.23,53.23,53.23,PLR,PLR
+"Hammer, Bernhard",FDP,SO,53.77,1875-12-10,FDP,"Hammer, Bernhard","Hammer, Bernhard","Hammer, Bernhard",SO,SO,SO,1875-12-10,1875-12-10,1875-12-10,53.77,53.77,53.77,PLR,PLR
+"Hertenstein, Wilhelm",FDP,ZH,53.88,1879-03-21,FDP,"Hertenstein, Wilhelm","Hertenstein, Wilhelm","Hertenstein, Wilhelm",ZH,ZH,ZH,1879-03-21,1879-03-21,1879-03-21,53.88,53.88,53.88,PLR,PLR
+"Schmid, Samuel",SVP 2),BE,53.91,2000-12-06,SVP,"Schmid, Samuel","Schmid, Samuel","Schmid, Samuel",BE,BE,BE,2000-12-06,2000-12-06,2000-12-06,53.91,53.91,53.91,NA,NA
+"Weber, Max",SP,ZH,54.36,1951-12-13,SP,"Weber, Max","Weber, Max","Weber, Max",ZH,ZH,ZH,1951-12-13,1951-12-13,1951-12-13,54.36,54.36,54.36,PS,PS
+"Feldmann, Markus",SVP,BE,54.56,1951-12-13,SVP,"Feldmann, Markus","Feldmann, Markus","Feldmann, Markus",BE,BE,BE,1951-12-13,1951-12-13,1951-12-13,54.56,54.56,54.56,UDC,UDC
+"Schlumpf, Leon",SVP,GR,54.83,1979-12-05,SVP,"Schlumpf, Leon","Schlumpf, Leon","Schlumpf, Leon",GR,GR,GR,1979-12-05,1979-12-05,1979-12-05,54.83,54.83,54.83,UDC,UDC
+"Keller-Sutter, Karin",FDP,SG,54.95,2018-12-05,FDP,"Keller-Sutter, Karin","Keller-Sutter, Karin","Keller-Sutter, Karin",SG,SG,SG,2018-12-05,2018-12-05,2018-12-05,54.95,54.95,54.95,PLR,PLR
+"Bonvin, Roger",CVP,VS,55.04,1962-09-27,CVP,"Bonvin, Roger","Bonvin, Roger","Bonvin, Roger",VS,VS,VS,1962-09-27,1962-09-27,1962-09-27,55.04,55.04,55.04,Le Centre,Il Centro
+"Ritschard, Willy",SP,SO,55.19,1973-12-05,SP,"Ritschard, Willy","Ritschard, Willy","Ritschard, Willy",SO,SO,SO,1973-12-05,1973-12-05,1973-12-05,55.19,55.19,55.19,PS,PS
+"Stampfli, Walter",FDP,SO,55.62,1940-07-18,FDP,"Stampfli, Walter","Stampfli, Walter","Stampfli, Walter",SO,SO,SO,1940-07-18,1940-07-18,1940-07-18,55.62,55.62,55.62,PLR,PLR
+"Hürlimann, Hans",CVP,ZG,55.67,1973-12-05,CVP,"Hürlimann, Hans","Hürlimann, Hans","Hürlimann, Hans",ZG,ZG,ZG,1973-12-05,1973-12-05,1973-12-05,55.67,55.67,55.67,Le Centre,Il Centro
+"Brugger, Ernst",FDP,ZH,55.75,1969-12-10,FDP,"Brugger, Ernst","Brugger, Ernst","Brugger, Ernst",ZH,ZH,ZH,1969-12-10,1969-12-10,1969-12-10,55.75,55.75,55.75,PLR,PLR
+"Couchepin, Pascal",FDP,VS,55.93,1998-03-11,FDP,"Couchepin, Pascal","Couchepin, Pascal","Couchepin, Pascal",VS,VS,VS,1998-03-11,1998-03-11,1998-03-11,55.93,55.93,55.93,PLR,PLR
+"Parmelin, Guy",SVP,VD,56.08,2015-12-09,SVP,"Parmelin, Guy","Parmelin, Guy","Parmelin, Guy",VD,VD,VD,2015-12-09,2015-12-09,2015-12-09,56.08,56.08,56.08,UDC,UDC
+"Cassis, Ignazio",FDP,TI,56.44,2017-09-20,FDP,"Cassis, Ignazio","Cassis, Ignazio","Cassis, Ignazio",TI,TI,TI,2017-09-20,2017-09-20,2017-09-20,56.44,56.44,56.44,PLR,PLR
+"Amherd, Viola",CVP,VS,56.5,2018-12-05,CVP,"Amherd, Viola","Amherd, Viola","Amherd, Viola",VS,VS,VS,2018-12-05,2018-12-05,2018-12-05,56.5,56.5,56.5,Le Centre,Il Centro
+"Stich, Otto",SP,SO,56.91,1983-12-07,SP,"Stich, Otto","Stich, Otto","Stich, Otto",SO,SO,SO,1983-12-07,1983-12-07,1983-12-07,56.91,56.91,56.91,PS,PS
+"Munzinger, Martin J.",FDP,SO,57.01,1848-11-16,FDP,"Munzinger, Martin J.","Munzinger, Martin J.","Munzinger, Martin J.",SO,SO,SO,1848-11-16,1848-11-16,1848-11-16,57.01,57.01,57.01,PLR,PLR
+"Bourgknecht, Jean",CVP,FR,57.25,1959-12-17,CVP,"Bourgknecht, Jean","Bourgknecht, Jean","Bourgknecht, Jean",FR,FR,FR,1959-12-17,1959-12-17,1959-12-17,57.25,57.25,57.25,Le Centre,Il Centro
+"Zemp, Joseph",CVP,LU,57.29,1891-12-17,CVP,"Zemp, Joseph","Zemp, Joseph","Zemp, Joseph",LU,LU,LU,1891-12-17,1891-12-17,1891-12-17,57.29,57.29,57.29,Le Centre,Il Centro
+"Calmy-Rey, Micheline",SP,GE,57.41,2002-12-04,SP,"Calmy-Rey, Micheline","Calmy-Rey, Micheline","Calmy-Rey, Micheline",GE,GE,GE,2002-12-04,2002-12-04,2002-12-04,57.41,57.41,57.41,PS,PS
+"Nobs, Ernst",SP,ZH,57.42,1943-12-15,SP,"Nobs, Ernst","Nobs, Ernst","Nobs, Ernst",ZH,ZH,ZH,1943-12-15,1943-12-15,1943-12-15,57.42,57.42,57.42,PS,PS
+"Forrer, Ludwig",FDP,ZH,57.83,1902-12-11,FDP,"Forrer, Ludwig","Forrer, Ludwig","Forrer, Ludwig",ZH,ZH,ZH,1902-12-11,1902-12-11,1902-12-11,57.83,57.83,57.83,PLR,PLR
+"Spühler, Willy",SP,ZH,57.88,1959-12-17,SP,"Spühler, Willy","Spühler, Willy","Spühler, Willy",ZH,ZH,ZH,1959-12-17,1959-12-17,1959-12-17,57.88,57.88,57.88,PS,PS
+"Maurer, Ueli",SVP,ZH,58.03,2008-12-10,SVP,"Maurer, Ueli","Maurer, Ueli","Maurer, Ueli",ZH,ZH,ZH,2008-12-10,2008-12-10,2008-12-10,58.03,58.03,58.03,UDC,UDC
+"Egli, Alphons",CVP,LU,58.17,1982-12-08,CVP,"Egli, Alphons","Egli, Alphons","Egli, Alphons",LU,LU,LU,1982-12-08,1982-12-08,1982-12-08,58.17,58.17,58.17,Le Centre,Il Centro
+"Schneider-Ammann, Johann N.",FDP,BE,58.59,2010-09-22,FDP,"Schneider-Ammann, Johann N.","Schneider-Ammann, Johann N.","Schneider-Ammann, Johann N.",BE,BE,BE,2010-09-22,2010-09-22,2010-09-22,58.59,58.59,58.59,PLR,PLR
+"Chevallaz, Georges-André",FDP,VD,58.83,1973-12-05,FDP,"Chevallaz, Georges-André","Chevallaz, Georges-André","Chevallaz, Georges-André",VD,VD,VD,1973-12-05,1973-12-05,1973-12-05,58.83,58.83,58.83,PLR,PLR
+"Holenstein, Thomas",CVP,SG,58.85,1954-12-16,CVP,"Holenstein, Thomas","Holenstein, Thomas","Holenstein, Thomas",SG,SG,SG,1954-12-16,1954-12-16,1954-12-16,58.85,58.85,58.85,Le Centre,Il Centro
+"Baumann, Johannes",FDP,AR,59.31,1934-03-22,FDP,"Baumann, Johannes","Baumann, Johannes","Baumann, Johannes",AR,AR,AR,1934-03-22,1934-03-22,1934-03-22,59.31,59.31,59.31,PLR,PLR
+"Schobinger, Josef Anton",CVP,LU,59.38,1908-06-17,CVP,"Schobinger, Josef Anton","Schobinger, Josef Anton","Schobinger, Josef Anton",LU,LU,LU,1908-06-17,1908-06-17,1908-06-17,59.38,59.38,59.38,Le Centre,Il Centro
+"Friedrich, Rudolf",FDP,ZH,59.43,1982-12-08,FDP,"Friedrich, Rudolf","Friedrich, Rudolf","Friedrich, Rudolf",ZH,ZH,ZH,1982-12-08,1982-12-08,1982-12-08,59.43,59.43,59.43,PLR,PLR
+"von Steiger, Eduard",SVP,BE,59.44,1940-12-10,SVP,"von Steiger, Eduard","von Steiger, Eduard","von Steiger, Eduard",BE,BE,BE,1940-12-10,1940-12-10,1940-12-10,59.44,59.44,59.44,UDC,UDC
+"Wahlen, Friedrich Traugott",SVP,BE,59.67,1958-12-11,SVP,"Wahlen, Friedrich Traugott","Wahlen, Friedrich Traugott","Wahlen, Friedrich Traugott",BE,BE,BE,1958-12-11,1958-12-11,1958-12-11,59.67,59.67,59.67,UDC,UDC
+"Meyer, Albert",FDP,ZH,59.75,1929-12-12,FDP,"Meyer, Albert","Meyer, Albert","Meyer, Albert",ZH,ZH,ZH,1929-12-12,1929-12-12,1929-12-12,59.75,59.75,59.75,PLR,PLR
+"Honegger, Fritz",FDP,ZH,60.37,1977-12-07,FDP,"Honegger, Fritz","Honegger, Fritz","Honegger, Fritz",ZH,ZH,ZH,1977-12-07,1977-12-07,1977-12-07,60.37,60.37,60.37,PLR,PLR
+"Graber, Pierre",SP,NE,61.01,1969-12-10,SP,"Graber, Pierre","Graber, Pierre","Graber, Pierre",NE,NE,NE,1969-12-10,1969-12-10,1969-12-10,61.01,61.01,61.01,PS,PS
+"Merz, Hans-Rudolf",FDP,AR,61.08,2003-12-10,FDP,"Merz, Hans-Rudolf","Merz, Hans-Rudolf","Merz, Hans-Rudolf",AR,AR,AR,2003-12-10,2003-12-10,2003-12-10,61.08,61.08,61.08,PLR,PLR
+"Wetter, Ernst",FDP,ZH,61.3,1938-12-15,FDP,"Wetter, Ernst","Wetter, Ernst","Wetter, Ernst",ZH,ZH,ZH,1938-12-15,1938-12-15,1938-12-15,61.3,61.3,61.3,PLR,PLR
+"Chuard, Ernest",FDP,VD,62.36,1919-12-11,FDP,"Chuard, Ernest","Chuard, Ernest","Chuard, Ernest",VD,VD,VD,1919-12-11,1919-12-11,1919-12-11,62.36,62.36,62.36,PLR,PLR
+"Perrier, Louis",FDP,NE,63.05,1912-03-12,FDP,"Perrier, Louis","Perrier, Louis","Perrier, Louis",NE,NE,NE,1912-03-12,1912-03-12,1912-03-12,63.05,63.05,63.05,PLR,PLR
+"Blocher, Christoph",SVP,ZH,63.16,2003-12-10,SVP,"Blocher, Christoph","Blocher, Christoph","Blocher, Christoph",ZH,ZH,ZH,2003-12-10,2003-12-10,2003-12-10,63.16,63.16,63.16,UDC,UDC
+"Escher, Josef",CVP,VS,64.99,1950-09-14,CVP,"Escher, Josef","Escher, Josef","Escher, Josef",VS,VS,VS,1950-09-14,1950-09-14,1950-09-14,64.99,64.99,64.99,Le Centre,Il Centro
+"Ador, Gustave",LPS,GE,71.5,1917-06-26,FDP,"Ador, Gustave","Ador, Gustave","Ador, Gustave",GE,GE,GE,1917-06-26,1917-06-26,1917-06-26,71.5,71.5,71.5,NA,NA
