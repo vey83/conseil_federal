@@ -1,4 +1,4 @@
-name,partei,kanton,age_elec,gewahlt,Partei,Nom et prénom,Name Vorname,ITname,Kanton,Canton,Cantone,Date de l'élection,Wahltag,IT_gewahlt,Age lors de l'élection,DE_age_elec,IT_age_elec,Parti,Partito
+name,partei,kanton,age_elec,gewahlt,Partei,Nom et prénom,Name Vorname,Cognome e nome,Kanton,Canton,Cantone,Date de l'élection,Wahltag,Data d'elezione,Age lors de l'élection,Età al momento dell'elezione,Alter bei der Wahl,Parti,Partito
 "Droz, Numa",FDP,NE,31.89,1875-12-18,FDP,"Droz, Numa","Droz, Numa","Droz, Numa",NE,NE,NE,1875-12-18,1875-12-18,1875-12-18,31.89,31.89,31.89,PLR,PLR
 "Stämpfli, Jakob",FDP,BE,34.78,1854-12-06,FDP,"Stämpfli, Jakob","Stämpfli, Jakob","Stämpfli, Jakob",BE,BE,BE,1854-12-06,1854-12-06,1854-12-06,34.78,34.78,34.78,PLR,PLR
 "Metzler-Arnold, Ruth",CVP,AI,34.8,1999-03-11,CVP,"Metzler-Arnold, Ruth","Metzler-Arnold, Ruth","Metzler-Arnold, Ruth",AI,AI,AI,1999-03-11,1999-03-11,1999-03-11,34.8,34.8,34.8,Le Centre,Il Centro
