@@ -1,123 +1,21 @@
-name,Bulletins délivrés,Name Vorname,periodes,tour,delivres,nuls,elu_pour,annee,elec_nr,parti
-"Pult, Jon",246,"Pult, Jon",2003-2023,1,246,0,100,2023,1,PS
-"Baume-Schneider, Elisabeth",245,"Baume-Schneider, Elisabeth",2003-2023,3,245,0,50.2,2022,2,PS
-"Rösti, Albert",245,"Rösti, Albert",2003-2023,1,245,0,53.47,2022,1,UDC
-"Keller-Suter, Karin",244,"Keller-Suter, Karin",2003-2023,1,244,0,63.37,2018,2,PLR
-"Ahmerd, Viola",244,"Ahmerd, Viola",2003-2023,1,244,0,60.66,2018,1,PDC
-"Cassis, Ignazio",246,"Cassis, Ignazio",2003-2023,2,246,0,50.81,2017,1,PLR
-"Parmelin, Guy",243,"Parmelin, Guy",2003-2023,3,243,0,56.79,2015,1,UDC
-"Berset, Alain",245,"Berset, Alain",2003-2023,2,245,0,51.43,2011,1,PS
-"Schneider-Ammann, Johann N.",245,"Schneider-Ammann, Johann N.",2003-2023,5,245,2,58.78,2010,1,PLR
-"Sommaruga, Simonetta",245,"Sommaruga, Simonetta",2003-2023,4,245,2,64.9,2010,2,PS
-"Burkhalter, Didier",245,"Burkhalter, Didier",2003-2023,4,245,1,52.65,2009,1,PLR
-"Maurer, Ueli",244,"Maurer, Ueli",2003-2023,3,244,0,50,2008,1,UDC
-"Widmer-Schlumpf, Eveline",246,"Widmer-Schlumpf, Eveline",2003-2023,2,246,0,50.81,2007,1,PBD
-"Leuthard, Doris",242,"Leuthard, Doris",2003-2023,1,242,3,54.96,2006,1,PDC
-"Merz, Hans-Rudolf",244,"Merz, Hans-Rudolf",2003-2023,2,244,0,52.05,2003,2,PLR
-"Blocher, Christoph",246,"Blocher, Christoph",2003-2023,3,246,4,49.19,2003,1,UDC
-"Calmy-Rey, Micheline",245,"Calmy-Rey, Micheline",1960-2003,5,245,1,53.69,2002,1,PS
-"Schmid, Samuel",244,"Schmid, Samuel",1960-2003,6,244,2,49.59,2000,1,UDC
-"Deiss, Joseph",244,"Deiss, Joseph",1960-2003,6,244,0,49.18,1999,1,PDC
-"Metzler-Arnold, Ruth",245,"Metzler-Arnold, Ruth",1960-2003,4,245,0,51.64,1999,2,PDC
-"Couchepin, Pascal",246,"Couchepin, Pascal",1960-2003,5,246,1,59.35,1998,1,PLR
-"Leuenberger, Moritz",244,"Leuenberger, Moritz",1960-2003,5,244,1,50.82,1995,1,PS
-"Dreifuss, Ruth",229,"Dreifuss, Ruth",1960-2003,3,229,0,63.16,1993,1,PS
-"Villiger, Kaspar",241,"Villiger, Kaspar",1960-2003,1,241,0,51.45,1989,1,PLR
-"Ogi, Adolf",245,"Ogi, Adolf",1960-2003,2,245,0,53.88,1987,2,UDC
-"Felber, René",242,"Felber, René",1960-2003,1,242,3,62.81,1987,1,PS
-"Cotti, Flavio",243,"Cotti, Flavio",1960-2003,1,243,0,67.36,1986,1,PDC
-"Koller, Arnold",244,"Koller, Arnold",1960-2003,1,244,1,74.07,1986,2,PDC
-"Kopp, Elisabeth",244,"Kopp, Elisabeth",1960-2003,1,244,3,50.82,1984,1,PLR
-"Delamuraz, Jean-Pascal",246,"Delamuraz, Jean-Pascal",1960-2003,1,246,3,52.85,1983,1,PLR
-"Stich, Otto",246,"Stich, Otto",1960-2003,1,246,0,50.41,1983,2,PS
-"Friedrich, Rudolf",245,"Friedrich, Rudolf",1960-2003,1,245,0,53.06,1982,2,PLR
-"Egli, Alphons",245,"Egli, Alphons",1960-2003,1,245,0,51.02,1982,1,PDC
-"Schlumpf, Leon",246,"Schlumpf, Leon",1960-2003,1,246,1,64.63,1979,1,UDC
-"Aubert, Pierre",239,"Aubert, Pierre",1960-2003,1,239,0,58.16,1977,1,PS
-"Honegger, Fritz",240,"Honegger, Fritz",1960-2003,1,240,2,75.22,1977,2,PLR
-"Chevallaz, Georges-André",241,"Chevallaz, Georges-André",1960-2003,1,241,0,56.85,1973,1,PLR
-"Hürlimann, Hans",241,"Hürlimann, Hans",1960-2003,1,241,9,54.77,1973,2,PDC
-"Ritschard, Willi",242,"Ritschard, Willi",1960-2003,1,242,0,50.83,1973,3,PS
-"Furgler, Kurt",238,"Furgler, Kurt",1960-2003,1,238,0,52.52,1971,1,PDC
-"Brugger, Ernst",243,"Brugger, Ernst",1960-2003,1,243,0,66.39,1969,1,PLR
-"Graber, Pierre",243,"Graber, Pierre",1960-2003,1,243,0,77.37,1969,2,PS
-"Celio, Nello",236,"Celio, Nello",1960-2003,1,236,2,57.63,1966,1,PLR
-"Gnägi, Rudolf",242,"Gnägi, Rudolf",1960-2003,1,242,1,73.64,1965,1,UDC
-"Bonvin, Roger",234,"Bonvin, Roger",1960-2003,5,234,2,60.94,1962,1,PDC
-"Schaffner, Hans",233,"Schaffner, Hans",1960-2003,1,233,3,75.43,1961,1,PLR
-"Tschudi, Hans-Peter",235,"Tschudi, Hans-Peter",1960-2003,3,235,0,54.89,1959,3,PS
-"von Moos, Ludwig",238,"von Moos, Ludwig",1960-2003,1,238,0,62.18,1959,4,PDC
-"Spühler, Willy",238,"Spühler, Willy",1960-2003,1,238,0,62.61,1959,2,PS
-"Bourgknecht, Jean",240,"Bourgknecht, Jean",1960-2003,1,240,0,55.83,1959,1,PDC
-"Wahlen, Friedrich Traugott",236,"Wahlen, Friedrich Traugott",1915-1959,2,236,0,53.19,1958,1,UDC
-"Lepori, Giuseppe",235,"Lepori, Giuseppe",1915-1959,2,235,0,54.47,1954,3,PDC
-"Holenstein, Thomas",234,"Holenstein, Thomas",1915-1959,1,234,0,77.78,1954,2,PDC
-"Chaudet, Pierre",234,"Chaudet, Pierre",1915-1959,1,234,0,57.69,1954,1,PLR
-"Streuli, Hans",236,"Streuli, Hans",1915-1959,2,236,0,47.88,1953,1,PLR
-"Weber, Mas",234,"Weber, Mas",1915-1959,1,234,1,57.08,1951,2,PS
-"Feldmann, Markus",232,"Feldmann, Markus",1915-1959,1,232,1,80,1951,1,UDC
-"Escher, Josef",219,"Escher, Josef",1915-1959,1,219,0,75.34,1950,1,PDC
-"Rubattel, Rodolphe",235,"Rubattel, Rodolphe",1915-1959,1,235,0,58.72,1947,1,PLR
-"Petitpierre, Max",235,"Petitpierre, Max",1915-1959,1,235,0,53.28,1944,1,PLR
-"Nobs, Ernst",233,"Nobs, Ernst",1915-1959,1,233,52,52.36,1943,1,PS
-"Kobelt, Karl",226,"Kobelt, Karl",1915-1959,5,226,2,51.77,1940,1,PLR
-"von Steiger, Eduard",226,"von Steiger, Eduard",1915-1959,1,226,0,57.52,1940,2,UDC
-"Stampfli, Walther",229,"Stampfli, Walther",1915-1959,1,229,1,62.28,1940,1,PLR
-"Celio, Enrico",227,"Celio, Enrico",1915-1959,2,227,0,52.21,1940,1,PDC
-"Wetter, Ernst",223,"Wetter, Ernst",1915-1959,1,223,0,52.47,1938,1,PLR
-"Obrecht, Hermann",214,"Obrecht, Hermann",1915-1959,1,214,3,58.69,1935,1,PLR
-"Etter, Philipp",218,"Etter, Philipp",1915-1959,1,218,0,53,1934,1,PDC
-"Baumann, Johannes",222,"Baumann, Johannes",1915-1959,3,222,1,63.51,1934,1,PLR
-"Meyer, Albert",237,"Meyer, Albert",1915-1959,4,237,19,42.55,1929,1,PLR
-"Minger, Rudolf",240,"Minger, Rudolf",1915-1959,1,240,1,61.92,1929,2,UDC
-"Pilet-Golaz, Marcel",234,"Pilet-Golaz, Marcel",1915-1959,1,234,0,64.81,1928,1,PLR
-"Häberlin, Heinrich",199,"Häberlin, Heinrich",1915-1959,1,199,0,62.94,1920,1,PLR
-"Musy, Jean-Marie",227,"Musy, Jean-Marie",1915-1959,1,227,0,64.29,1919,2,PDC
-"Chuard, Ernest",228,"Chuard, Ernest",1915-1959,5,228,0,70.67,1919,1,PLR
-"Scheurer, Karl",223,"Scheurer, Karl",1915-1959,1,223,0,70.45,1919,3,PLR
-"Haab, Robert",217,"Haab, Robert",1915-1959,1,217,0,75.12,1917,1,PLR
-"Ador, Gustav",219,"Ador, Gustav",1915-1959,1,219,0,76.71,1917,1,PLR
-"Calonder, Felix-Louis",218,"Calonder, Felix-Louis",1848-1914,1,218,0,69.27,1913,1,PLR
-"Schulthess, Edmund",198,"Schulthess, Edmund",1848-1914,1,198,0,65.98,1912,2,PLR
-"Decoppet, Camille",197,"Decoppet, Camille",1848-1914,1,197,0,87.82,1912,1,PLR
-"Perrier, Louis",216,"Perrier, Louis",1848-1914,1,216,0,75.12,1912,1,PLR
-"Motta, Giuseppe",207,"Motta, Giuseppe",1848-1914,1,207,0,89.32,1911,1,PDC
-"Hoffmann, Arthur",196,"Hoffmann, Arthur",1848-1914,1,196,0,95.38,1911,1,PLR
-"Schobinger, Josef Anton",188,"Schobinger, Josef Anton",1848-1914,1,188,0,77.05,1908,1,PDC
-"Forrer, Ludwig",200,"Forrer, Ludwig",1848-1914,1,200,0,56.5,1902,1,PLR
-"Ruchet, Marc-Emile",180,"Ruchet, Marc-Emile",NA,1,180,1,68.89,NA,2,PLR
-"Comtesse, Robert",180,"Comtesse, Robert",NA,1,180,0,82.22,NA,1,PLR
-"Brenner, Ernst",186,"Brenner, Ernst",NA,4,186,0,52.17,NA,3,PLR
-"Müller, Eduard",171,"Müller, Eduard",NA,1,171,0,80,NA,4,PLR
-"Ruffy, Eugène",179,"Ruffy, Eugène",NA,1,179,2,48.88,NA,5,PLR
-"Lachenal, Adrien",174,"Lachenal, Adrien",NA,1,174,0,80.81,NA,6,PLR
-"Zemp, Joseph",183,"Zemp, Joseph",NA,1,183,1,70.49,NA,7,PDC
-"Frey, Emil",181,"Frey, Emil",NA,1,181,0,51.93,NA,8,PLR
-"Hauser, Walter",177,"Hauser, Walter",NA,1,177,2,66.1,NA,9,PLR
-"Deucher, Adolf",177,"Deucher, Adolf",NA,1,177,1,53.67,NA,10,PLR
-"Ruchonnet, Antoine Louis John",169,"Ruchonnet, Antoine Louis John",NA,3,169,0,51.79,NA,11,PLR
-"Hertenstein, Wilhelm",167,"Hertenstein, Wilhelm",NA,1,167,0,55.09,NA,12,PLR
-"Bavier, Simeon",174,"Bavier, Simeon",NA,1,174,0,62.43,NA,13,PLR
-"Droz, Numa",170,"Droz, Numa",NA,2,170,0,50,NA,14,PLR
-"Hammer, Bernhard",171,"Hammer, Bernhard",NA,5,171,0,49.71,NA,16,PLR
-"Anderwert, Fridolin",171,"Anderwert, Fridolin",NA,3,171,0,53.22,NA,15,PLR
-"Heer, Joachim",170,"Heer, Joachim",NA,1,170,0,53.53,NA,17,PLR
-"Borel, Eugène",168,"Borel, Eugène",NA,2,168,0,53.57,NA,18,PLR
-"Scherer, Johann Jakob",154,"Scherer, Johann Jakob",NA,4,154,0,60.26,NA,19,PLR
-"Ceresole, Paul",157,"Ceresole, Paul",NA,2,157,0,53.55,NA,20,PLR
-"Ruffy, Victor",155,"Ruffy, Victor",NA,1,155,0,77.42,NA,21,PLR
-"Welti, Emil",161,"Welti, Emil",NA,1,161,0,64.78,NA,22,PLR
-"Challet-Venel, Jean-Jacques",164,"Challet-Venel, Jean-Jacques",NA,6,164,1,52.44,NA,23,PLR
-"Schenk, Karl",164,"Schenk, Karl",NA,1,164,0,51.22,NA,24,PLR
-"Dubs, Jakob",135,"Dubs, Jakob",NA,1,135,0,66.67,NA,25,PLR
-"Pioda, Giovanni Battista",130,"Pioda, Giovanni Battista",NA,1,130,0,50.39,NA,26,PLR
-"Knüsel, Melchior Josef Martin",147,"Knüsel, Melchior Josef Martin",NA,2,147,0,66.2,NA,27,PLR
-"Fornerod, Constant",154,"Fornerod, Constant",NA,3,154,0,56.76,NA,28,PLR
-"Stämpfli, Jakob",152,"Stämpfli, Jakob",NA,6,152,0,59.06,NA,29,PLR
-"Naeff, Wilhelm Matthias",128,"Naeff, Wilhelm Matthias",NA,1,128,0,56.25,NA,35,PLR
-"Frey-Herosé, Friedrich",130,"Frey-Herosé, Friedrich",NA,2,130,0,53.85,NA,32,PLR
-"Franscini, Stefano",132,"Franscini, Stefano",NA,3,132,0,51.52,NA,31,PLR
-"Munzinger, Josef",132,"Munzinger, Josef",NA,2,132,0,53.79,NA,34,PLR
-"Druey, Daniel-Henri",132,"Druey, Daniel-Henri",NA,1,132,0,57.58,NA,30,PLR
-"Ochsenstein, Ulrich",132,"Ochsenstein, Ulrich",NA,1,132,0,69.7,NA,36,PLR
-"Furrer, Jonas",132,"Furrer, Jonas",NA,2,132,0,64.39,NA,33,PLR
+Nom et prénom,Parti,Date,Tour,Nombre de voix obtenues,Bulletins délivrés,Bulletins rentrés,Bulletins blancs,Bulletins nuls,Majorité absolue,Pourcentage des voix
+"Pult, Jon",PS,2023-12-13T00:00:00Z,1,246,246,246,6,0,121,100
+"Graber, Pierre",PS,1969-12-10T00:00:00Z,1,188,243,243,22,0,111,77.37
+"Schaffner, Hans",PLR,1961-06-15T00:00:00Z,1,175,233,232,15,3,108,75.43
+"Honegger, Fritz",PLR,1977-12-07T00:00:00Z,1,173,240,230,20,2,105,75.22
+"Koller, Arnold",Le Centre,1986-12-10T00:00:00Z,1,180,244,243,0,1,122,74.07
+"Gnägi, Rudolf",UDC,1965-12-15T00:00:00Z,1,176,242,239,23,1,108,73.64
+"Cotti, Flavio",Le Centre,1986-12-10T00:00:00Z,1,163,243,242,3,0,120,67.36
+"Brugger, Ernst",PLR,1969-12-10T00:00:00Z,1,160,243,241,5,0,119,66.39
+"Schlumpf, Leon",UDC,1979-12-05T00:00:00Z,1,159,246,246,4,1,121,64.63
+"Keller-Suter, Karin",PLR,2018-12-05T00:00:00Z,1,154,244,243,6,0,119,63.37
+"Felber, René",PS,1987-12-09T00:00:00Z,1,152,242,242,11,3,115,62.81
+"Spühler, Willy",PS,1959-12-17T00:00:00Z,1,149,238,238,12,0,114,62.61
+"von Moos, Ludwig",Le Centre,1959-12-17T00:00:00Z,1,148,238,238,12,0,114,62.18
+"Ahmerd, Viola",Le Centre,2018-12-05T00:00:00Z,1,148,244,244,4,0,121,60.66
+"Aubert, Pierre",PS,1977-12-07T00:00:00Z,1,139,239,239,7,0,117,58.16
+"Celio, Nello",PLR,1966-12-14T00:00:00Z,1,136,236,236,2,2,117,57.63
+"Chevallaz, Georges-André",PLR,1973-12-05T00:00:00Z,1,137,241,241,0,0,121,56.85
+"Bourgknecht, Jean",Le Centre,1959-12-17T00:00:00Z,1,134,240,240,7,0,117,55.83
+"Leuthard, Doris",Le Centre,2006-06-14T00:00:00Z,1,133,242,242,5,3,118,54.96
+"Hürlimann, Hans",Le Centre,1973-12-05T00:00:00Z,1,132,241,241,3,9,115,54.77
