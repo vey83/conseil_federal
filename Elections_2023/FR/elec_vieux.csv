@@ -5,7 +5,7 @@ name,partei,kanton,age_elec_integer,gewahlt,Partei,Nom et prénom,Name Vorname,C
 "Honegger, Fritz",FDP,ZH,60,1977-12-07,FDP,"Honegger, Fritz","Honegger, Fritz","Honegger, Fritz",ZH,ZH,ZH,1977-12-07,1977-12-07,1977-12-07,60,60,60,PLR,PLR
 "Friedrich, Rudolf",FDP,ZH,59,1982-12-08,FDP,"Friedrich, Rudolf","Friedrich, Rudolf","Friedrich, Rudolf",ZH,ZH,ZH,1982-12-08,1982-12-08,1982-12-08,59,59,59,PLR,PLR
 "Chevallaz, Georges-André",FDP,VD,58,1973-12-05,FDP,"Chevallaz, Georges-André","Chevallaz, Georges-André","Chevallaz, Georges-André",VD,VD,VD,1973-12-05,1973-12-05,1973-12-05,58,58,58,PLR,PLR
-"Egli, Alphons",CVP,LU,58,1982-12-08,CVP,"Egli, Alphons","Egli, Alphons","Egli, Alphons",LU,LU,LU,1982-12-08,1982-12-08,1982-12-08,58,58,58,Le Centre,Il Centro
+"Egli, Alphons",Mitte,LU,58,1982-12-08,Mitte,"Egli, Alphons","Egli, Alphons","Egli, Alphons",LU,LU,LU,1982-12-08,1982-12-08,1982-12-08,58,58,58,NA,NA
 "Maurer, Ueli",SVP,ZH,58,2008-12-10,SVP,"Maurer, Ueli","Maurer, Ueli","Maurer, Ueli",ZH,ZH,ZH,2008-12-10,2008-12-10,2008-12-10,58,58,58,UDC,UDC
 "Schneider-Ammann, Johann N.",FDP,BE,58,2010-09-22,FDP,"Schneider-Ammann, Johann N.","Schneider-Ammann, Johann N.","Schneider-Ammann, Johann N.",BE,BE,BE,2010-09-22,2010-09-22,2010-09-22,58,58,58,PLR,PLR
 "Baume-Schneider, Elisabeth",SP,JU,58,2022-12-07,SP,"Baume-Schneider, Elisabeth","Baume-Schneider, Elisabeth","Baume-Schneider, Elisabeth",JU,JU,JU,2022-12-07,2022-12-07,2022-12-07,58,58,58,PS,PS
@@ -13,9 +13,9 @@ name,partei,kanton,age_elec_integer,gewahlt,Partei,Nom et prénom,Name Vorname,C
 "Stich, Otto",SP,SO,56,1983-12-07,SP,"Stich, Otto","Stich, Otto","Stich, Otto",SO,SO,SO,1983-12-07,1983-12-07,1983-12-07,56,56,56,PS,PS
 "Parmelin, Guy",SVP,VD,56,2015-12-09,SVP,"Parmelin, Guy","Parmelin, Guy","Parmelin, Guy",VD,VD,VD,2015-12-09,2015-12-09,2015-12-09,56,56,56,UDC,UDC
 "Cassis, Ignazio",FDP,TI,56,2017-09-20,FDP,"Cassis, Ignazio","Cassis, Ignazio","Cassis, Ignazio",TI,TI,TI,2017-09-20,2017-09-20,2017-09-20,56,56,56,PLR,PLR
-"Amherd, Viola",CVP,VS,56,2018-12-05,CVP,"Amherd, Viola","Amherd, Viola","Amherd, Viola",VS,VS,VS,2018-12-05,2018-12-05,2018-12-05,56,56,56,Le Centre,Il Centro
-"Bonvin, Roger",CVP,VS,55,1962-09-27,CVP,"Bonvin, Roger","Bonvin, Roger","Bonvin, Roger",VS,VS,VS,1962-09-27,1962-09-27,1962-09-27,55,55,55,Le Centre,Il Centro
+"Amherd, Viola",Mitte,VS,56,2018-12-05,Mitte,"Amherd, Viola","Amherd, Viola","Amherd, Viola",VS,VS,VS,2018-12-05,2018-12-05,2018-12-05,56,56,56,NA,NA
+"Bonvin, Roger",Mitte,VS,55,1962-09-27,Mitte,"Bonvin, Roger","Bonvin, Roger","Bonvin, Roger",VS,VS,VS,1962-09-27,1962-09-27,1962-09-27,55,55,55,NA,NA
 "Brugger, Ernst",FDP,ZH,55,1969-12-10,FDP,"Brugger, Ernst","Brugger, Ernst","Brugger, Ernst",ZH,ZH,ZH,1969-12-10,1969-12-10,1969-12-10,55,55,55,PLR,PLR
 "Ritschard, Willy",SP,SO,55,1973-12-05,SP,"Ritschard, Willy","Ritschard, Willy","Ritschard, Willy",SO,SO,SO,1973-12-05,1973-12-05,1973-12-05,55,55,55,PS,PS
-"Hürlimann, Hans",CVP,ZG,55,1973-12-05,CVP,"Hürlimann, Hans","Hürlimann, Hans","Hürlimann, Hans",ZG,ZG,ZG,1973-12-05,1973-12-05,1973-12-05,55,55,55,Le Centre,Il Centro
+"Hürlimann, Hans",Mitte,ZG,55,1973-12-05,Mitte,"Hürlimann, Hans","Hürlimann, Hans","Hürlimann, Hans",ZG,ZG,ZG,1973-12-05,1973-12-05,1973-12-05,55,55,55,NA,NA
 "Couchepin, Pascal",FDP,VS,55,1998-03-11,FDP,"Couchepin, Pascal","Couchepin, Pascal","Couchepin, Pascal",VS,VS,VS,1998-03-11,1998-03-11,1998-03-11,55,55,55,PLR,PLR
