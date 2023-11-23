@@ -1,7 +1,6 @@
 name,partei,parti,kanton,age_elec_integer,gewahlt,Nom et prénom,Name Vorname,Cognome e nome,Kanton,Canton,Cantone,Date de l'élection,Wahltag,Data d'elezione,Age lors de l'élection,Età al momento dell'elezione,Alter bei der Wahl,Parti,Partito
 "Metzler-Arnold, Ruth",Mitte,Le Centre,AI,34,1999-03-11,"Metzler-Arnold, Ruth","Metzler-Arnold, Ruth","Metzler-Arnold, Ruth",AI,AI,AI,1999-03-11,1999-03-11,1999-03-11,34,34,34,Le Centre,Le Centre
 "Berset, Alain",SP,PS,FR,39,2011-12-14,"Berset, Alain","Berset, Alain","Berset, Alain",FR,FR,FR,2011-12-14,2011-12-14,2011-12-14,39,39,39,PS,PS
-"Pult, Jon",SP,PS,GR,39,2023-12-13,"Pult, Jon","Pult, Jon","Pult, Jon",GR,GR,GR,2023-12-13,2023-12-13,2023-12-13,39,39,39,PS,PS
 "Leuthard, Doris",Mitte,Le Centre,AG,43,2006-06-14,"Leuthard, Doris","Leuthard, Doris","Leuthard, Doris",AG,AG,AG,2006-06-14,2006-06-14,2006-06-14,43,43,43,Le Centre,Le Centre
 "Ogi, Adolf",SVP,UDC,BE,45,1987-12-09,"Ogi, Adolf","Ogi, Adolf","Ogi, Adolf",BE,BE,BE,1987-12-09,1987-12-09,1987-12-09,45,45,45,UDC,UDC
 "Furgler, Kurt",Mitte,Le Centre,SG,47,1971-12-08,"Furgler, Kurt","Furgler, Kurt","Furgler, Kurt",SG,SG,SG,1971-12-08,1971-12-08,1971-12-08,47,47,47,Le Centre,Le Centre
@@ -19,3 +18,4 @@ name,partei,parti,kanton,age_elec_integer,gewahlt,Nom et prénom,Name Vorname,Co
 "Celio, Nello",FDP,PLR,TI,52,1966-12-15,"Celio, Nello","Celio, Nello","Celio, Nello",TI,TI,TI,1966-12-15,1966-12-15,1966-12-15,52,52,52,PLR,PLR
 "Koller, Arnold",Mitte,Le Centre,AI,53,1986-12-10,"Koller, Arnold","Koller, Arnold","Koller, Arnold",AI,AI,AI,1986-12-10,1986-12-10,1986-12-10,53,53,53,Le Centre,Le Centre
 "Dreifuss, Ruth",SP,PS,GE,53,1993-03-10,"Dreifuss, Ruth","Dreifuss, Ruth","Dreifuss, Ruth",GE,GE,GE,1993-03-10,1993-03-10,1993-03-10,53,53,53,PS,PS
+"Deiss, Joseph",Mitte,Le Centre,FR,53,1999-03-11,"Deiss, Joseph","Deiss, Joseph","Deiss, Joseph",FR,FR,FR,1999-03-11,1999-03-11,1999-03-11,53,53,53,Le Centre,Le Centre
