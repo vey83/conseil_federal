@@ -1,21 +1,21 @@
-name,partei,parti,kanton,age_elec_integer,gewahlt,Nom et prénom,Name Vorname,Cognome e nome,Kanton,Canton,Cantone,Date de l'élection,Wahltag,Data d'elezione,Age lors de l'élection,Età al momento dell'elezione,Alter bei der Wahl,Parti,Partito
-"Metzler-Arnold, Ruth",Mitte,Le Centre,AI,34,1999-03-11,"Metzler-Arnold, Ruth","Metzler-Arnold, Ruth","Metzler-Arnold, Ruth",AI,AI,AI,1999-03-11,1999-03-11,1999-03-11,34,34,34,Le Centre,Le Centre
-"Berset, Alain",SP,PS,FR,39,2011-12-14,"Berset, Alain","Berset, Alain","Berset, Alain",FR,FR,FR,2011-12-14,2011-12-14,2011-12-14,39,39,39,PS,PS
-"Leuthard, Doris",Mitte,Le Centre,AG,43,2006-06-14,"Leuthard, Doris","Leuthard, Doris","Leuthard, Doris",AG,AG,AG,2006-06-14,2006-06-14,2006-06-14,43,43,43,Le Centre,Le Centre
-"Ogi, Adolf",SVP,UDC,BE,45,1987-12-09,"Ogi, Adolf","Ogi, Adolf","Ogi, Adolf",BE,BE,BE,1987-12-09,1987-12-09,1987-12-09,45,45,45,UDC,UDC
-"Furgler, Kurt",Mitte,Le Centre,SG,47,1971-12-08,"Furgler, Kurt","Furgler, Kurt","Furgler, Kurt",SG,SG,SG,1971-12-08,1971-12-08,1971-12-08,47,47,47,Le Centre,Le Centre
-"Delamuraz, Jean-Pascal",FDP,PLR,VD,47,1983-12-07,"Delamuraz, Jean-Pascal","Delamuraz, Jean-Pascal","Delamuraz, Jean-Pascal",VD,VD,VD,1983-12-07,1983-12-07,1983-12-07,47,47,47,PLR,PLR
-"Kopp, Elisabeth",FDP,PLR,ZH,47,1984-10-02,"Kopp, Elisabeth","Kopp, Elisabeth","Kopp, Elisabeth",ZH,ZH,ZH,1984-10-02,1984-10-02,1984-10-02,47,47,47,PLR,PLR
-"Cotti, Flavio",Mitte,Le Centre,TI,47,1986-12-10,"Cotti, Flavio","Cotti, Flavio","Cotti, Flavio",TI,TI,TI,1986-12-10,1986-12-10,1986-12-10,47,47,47,Le Centre,Le Centre
-"Villiger, Kaspar",FDP,PLR,LU,47,1989-02-01,"Villiger, Kaspar","Villiger, Kaspar","Villiger, Kaspar",LU,LU,LU,1989-02-01,1989-02-01,1989-02-01,47,47,47,PLR,PLR
-"Gnägi, Rudolf",SVP,UDC,BE,48,1965-12-08,"Gnägi, Rudolf","Gnägi, Rudolf","Gnägi, Rudolf",BE,BE,BE,1965-12-08,1965-12-08,1965-12-08,48,48,48,UDC,UDC
-"Leuenberger, Moritz",SP,PS,ZH,49,1995-09-27,"Leuenberger, Moritz","Leuenberger, Moritz","Leuenberger, Moritz",ZH,ZH,ZH,1995-09-27,1995-09-27,1995-09-27,49,49,49,PS,PS
-"Burkhalter, Didier",FDP,PLR,NE,49,2009-09-16,"Burkhalter, Didier","Burkhalter, Didier","Burkhalter, Didier",NE,NE,NE,2009-09-16,2009-09-16,2009-09-16,49,49,49,PLR,PLR
-"Aubert, Pierre",SP,PS,NE,50,1977-12-07,"Aubert, Pierre","Aubert, Pierre","Aubert, Pierre",NE,NE,NE,1977-12-07,1977-12-07,1977-12-07,50,50,50,PS,PS
-"Sommaruga, Simonetta",SP,PS,BE,50,2010-09-22,"Sommaruga, Simonetta","Sommaruga, Simonetta","Sommaruga, Simonetta",BE,BE,BE,2010-09-22,2010-09-22,2010-09-22,50,50,50,PS,PS
-"Widmer-Schlumpf, Eveline",SVP,UDC,GR,51,2007-12-12,"Widmer-Schlumpf, Eveline","Widmer-Schlumpf, Eveline","Widmer-Schlumpf, Eveline",GR,GR,GR,2007-12-12,2007-12-12,2007-12-12,51,51,51,UDC,UDC
-"Schaffner, Hans",FDP,PLR,AG,52,1961-06-15,"Schaffner, Hans","Schaffner, Hans","Schaffner, Hans",AG,AG,AG,1961-06-15,1961-06-15,1961-06-15,52,52,52,PLR,PLR
-"Celio, Nello",FDP,PLR,TI,52,1966-12-15,"Celio, Nello","Celio, Nello","Celio, Nello",TI,TI,TI,1966-12-15,1966-12-15,1966-12-15,52,52,52,PLR,PLR
-"Koller, Arnold",Mitte,Le Centre,AI,53,1986-12-10,"Koller, Arnold","Koller, Arnold","Koller, Arnold",AI,AI,AI,1986-12-10,1986-12-10,1986-12-10,53,53,53,Le Centre,Le Centre
-"Dreifuss, Ruth",SP,PS,GE,53,1993-03-10,"Dreifuss, Ruth","Dreifuss, Ruth","Dreifuss, Ruth",GE,GE,GE,1993-03-10,1993-03-10,1993-03-10,53,53,53,PS,PS
-"Deiss, Joseph",Mitte,Le Centre,FR,53,1999-03-11,"Deiss, Joseph","Deiss, Joseph","Deiss, Joseph",FR,FR,FR,1999-03-11,1999-03-11,1999-03-11,53,53,53,Le Centre,Le Centre
+name,parti,kanton,age_elec_integer,gewahlt,Nom et prénom,Age lors de l'élection,Parti,Canton,Date de l'élection,Name Vorname,Alter bei der Wahl,partei,Kanton,Wahltag,Cognome e nome,Età al momento dell'elezione,Partito,Cantone,Data d'elezione
+"Metzler-Arnold, Ruth",Le Centre,AI,34,1999-03-11,"Metzler-Arnold, Ruth",34,Le Centre,AI,1999-03-11,"Metzler-Arnold, Ruth",34,Mitte,AI,1999-03-11,"Metzler-Arnold, Ruth",34,Il Centro,AI,1999-03-11
+"Berset, Alain",PS,FR,39,2011-12-14,"Berset, Alain",39,PS,FR,2011-12-14,"Berset, Alain",39,SP,FR,2011-12-14,"Berset, Alain",39,PS,FR,2011-12-14
+"Leuthard, Doris",Le Centre,AG,43,2006-06-14,"Leuthard, Doris",43,Le Centre,AG,2006-06-14,"Leuthard, Doris",43,Mitte,AG,2006-06-14,"Leuthard, Doris",43,Il Centro,AG,2006-06-14
+"Ogi, Adolf",UDC,BE,45,1987-12-09,"Ogi, Adolf",45,UDC,BE,1987-12-09,"Ogi, Adolf",45,SVP,BE,1987-12-09,"Ogi, Adolf",45,UDC,BE,1987-12-09
+"Furgler, Kurt",Le Centre,SG,47,1971-12-08,"Furgler, Kurt",47,Le Centre,SG,1971-12-08,"Furgler, Kurt",47,Mitte,SG,1971-12-08,"Furgler, Kurt",47,Il Centro,SG,1971-12-08
+"Delamuraz, Jean-Pascal",PLR,VD,47,1983-12-07,"Delamuraz, Jean-Pascal",47,PLR,VD,1983-12-07,"Delamuraz, Jean-Pascal",47,FDP,VD,1983-12-07,"Delamuraz, Jean-Pascal",47,PLR,VD,1983-12-07
+"Kopp, Elisabeth",PLR,ZH,47,1984-10-02,"Kopp, Elisabeth",47,PLR,ZH,1984-10-02,"Kopp, Elisabeth",47,FDP,ZH,1984-10-02,"Kopp, Elisabeth",47,PLR,ZH,1984-10-02
+"Cotti, Flavio",Le Centre,TI,47,1986-12-10,"Cotti, Flavio",47,Le Centre,TI,1986-12-10,"Cotti, Flavio",47,Mitte,TI,1986-12-10,"Cotti, Flavio",47,Il Centro,TI,1986-12-10
+"Villiger, Kaspar",PLR,LU,47,1989-02-01,"Villiger, Kaspar",47,PLR,LU,1989-02-01,"Villiger, Kaspar",47,FDP,LU,1989-02-01,"Villiger, Kaspar",47,PLR,LU,1989-02-01
+"Gnägi, Rudolf",UDC,BE,48,1965-12-08,"Gnägi, Rudolf",48,UDC,BE,1965-12-08,"Gnägi, Rudolf",48,SVP,BE,1965-12-08,"Gnägi, Rudolf",48,UDC,BE,1965-12-08
+"Leuenberger, Moritz",PS,ZH,49,1995-09-27,"Leuenberger, Moritz",49,PS,ZH,1995-09-27,"Leuenberger, Moritz",49,SP,ZH,1995-09-27,"Leuenberger, Moritz",49,PS,ZH,1995-09-27
+"Burkhalter, Didier",PLR,NE,49,2009-09-16,"Burkhalter, Didier",49,PLR,NE,2009-09-16,"Burkhalter, Didier",49,FDP,NE,2009-09-16,"Burkhalter, Didier",49,PLR,NE,2009-09-16
+"Aubert, Pierre",PS,NE,50,1977-12-07,"Aubert, Pierre",50,PS,NE,1977-12-07,"Aubert, Pierre",50,SP,NE,1977-12-07,"Aubert, Pierre",50,PS,NE,1977-12-07
+"Sommaruga, Simonetta",PS,BE,50,2010-09-22,"Sommaruga, Simonetta",50,PS,BE,2010-09-22,"Sommaruga, Simonetta",50,SP,BE,2010-09-22,"Sommaruga, Simonetta",50,PS,BE,2010-09-22
+"Widmer-Schlumpf, Eveline",UDC,GR,51,2007-12-12,"Widmer-Schlumpf, Eveline",51,UDC,GR,2007-12-12,"Widmer-Schlumpf, Eveline",51,SVP,GR,2007-12-12,"Widmer-Schlumpf, Eveline",51,UDC,GR,2007-12-12
+"Schaffner, Hans",PLR,AG,52,1961-06-15,"Schaffner, Hans",52,PLR,AG,1961-06-15,"Schaffner, Hans",52,FDP,AG,1961-06-15,"Schaffner, Hans",52,PLR,AG,1961-06-15
+"Celio, Nello",PLR,TI,52,1966-12-15,"Celio, Nello",52,PLR,TI,1966-12-15,"Celio, Nello",52,FDP,TI,1966-12-15,"Celio, Nello",52,PLR,TI,1966-12-15
+"Koller, Arnold",Le Centre,AI,53,1986-12-10,"Koller, Arnold",53,Le Centre,AI,1986-12-10,"Koller, Arnold",53,Mitte,AI,1986-12-10,"Koller, Arnold",53,Il Centro,AI,1986-12-10
+"Dreifuss, Ruth",PS,GE,53,1993-03-10,"Dreifuss, Ruth",53,PS,GE,1993-03-10,"Dreifuss, Ruth",53,SP,GE,1993-03-10,"Dreifuss, Ruth",53,PS,GE,1993-03-10
+"Deiss, Joseph",Le Centre,FR,53,1999-03-11,"Deiss, Joseph",53,Le Centre,FR,1999-03-11,"Deiss, Joseph",53,Mitte,FR,1999-03-11,"Deiss, Joseph",53,Il Centro,FR,1999-03-11

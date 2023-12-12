@@ -1,21 +1,21 @@
-Nom et prénom,Parti,Date,Tour,Nombre de voix obtenues,Bulletins délivrés,Bulletins rentrés,Bulletins blancs,Bulletins nuls,Majorité absolue,Pourcentage des voix
-"Graber, Pierre",PS,1969-12-10T00:00:00Z,1,188,243,243,22,0,111,77.37
-"Schaffner, Hans",PLR,1961-06-15T00:00:00Z,1,175,233,232,15,3,108,75.43
-"Honegger, Fritz",PLR,1977-12-07T00:00:00Z,1,173,240,230,20,2,105,75.22
-"Koller, Arnold",Le Centre,1986-12-10T00:00:00Z,1,180,244,243,0,1,122,74.07
-"Gnägi, Rudolf",UDC,1965-12-15T00:00:00Z,1,176,242,239,23,1,108,73.64
-"Cotti, Flavio",Le Centre,1986-12-10T00:00:00Z,1,163,243,242,3,0,120,67.36
-"Brugger, Ernst",PLR,1969-12-10T00:00:00Z,1,160,243,241,5,0,119,66.39
-"Schlumpf, Leon",UDC,1979-12-05T00:00:00Z,1,159,246,246,4,1,121,64.63
-"Keller-Suter, Karin",PLR,2018-12-05T00:00:00Z,1,154,244,243,6,0,119,63.37
-"Felber, René",PS,1987-12-09T00:00:00Z,1,152,242,242,11,3,115,62.81
-"Spühler, Willy",PS,1959-12-17T00:00:00Z,1,149,238,238,12,0,114,62.61
-"von Moos, Ludwig",Le Centre,1959-12-17T00:00:00Z,1,148,238,238,12,0,114,62.18
-"Ahmerd, Viola",Le Centre,2018-12-05T00:00:00Z,1,148,244,244,4,0,121,60.66
-"Aubert, Pierre",PS,1977-12-07T00:00:00Z,1,139,239,239,7,0,117,58.16
-"Celio, Nello",PLR,1966-12-14T00:00:00Z,1,136,236,236,2,2,117,57.63
-"Chevallaz, Georges-André",PLR,1973-12-05T00:00:00Z,1,137,241,241,0,0,121,56.85
-"Bourgknecht, Jean",Le Centre,1959-12-17T00:00:00Z,1,134,240,240,7,0,117,55.83
-"Leuthard, Doris",Le Centre,2006-06-14T00:00:00Z,1,133,242,242,5,3,118,54.96
-"Hürlimann, Hans",Le Centre,1973-12-05T00:00:00Z,1,132,241,241,3,9,115,54.77
-"Rösti, Albert",UDC,2022-12-07T00:00:00Z,1,131,245,245,2,0,122,53.47
+Nom et prénom,Parti,Tour,Nombre de voix obtenues,Pourcentage des voix,Date,Name Vorname,Partei,Wahlgang,Anzahl erhaltene Stimmen,Stimmenanteil,Datum,Cognome e nome,Partito,Turno,Numero di voti ottenuti,Percentuale di voti,Data d'elezione
+"Graber, Pierre",PS,1,188,77.37,1969-12-10T00:00:00Z,"Graber, Pierre",SP,1,188,77.37,1969-12-10T00:00:00Z,"Graber, Pierre",PS,1,188,77.37,1969-12-10T00:00:00Z
+"Schaffner, Hans",PLR,1,175,75.43,1961-06-15T00:00:00Z,"Schaffner, Hans",FDP,1,175,75.43,1961-06-15T00:00:00Z,"Schaffner, Hans",PLR,1,175,75.43,1961-06-15T00:00:00Z
+"Honegger, Fritz",PLR,1,173,75.22,1977-12-07T00:00:00Z,"Honegger, Fritz",FDP,1,173,75.22,1977-12-07T00:00:00Z,"Honegger, Fritz",PLR,1,173,75.22,1977-12-07T00:00:00Z
+"Koller, Arnold",Le Centre,1,180,74.07,1986-12-10T00:00:00Z,"Koller, Arnold",Die Mitte,1,180,74.07,1986-12-10T00:00:00Z,"Koller, Arnold",Il Centro,1,180,74.07,1986-12-10T00:00:00Z
+"Gnägi, Rudolf",UDC,1,176,73.64,1965-12-15T00:00:00Z,"Gnägi, Rudolf",SVP,1,176,73.64,1965-12-15T00:00:00Z,"Gnägi, Rudolf",UDC,1,176,73.64,1965-12-15T00:00:00Z
+"Cotti, Flavio",Le Centre,1,163,67.36,1986-12-10T00:00:00Z,"Cotti, Flavio",Die Mitte,1,163,67.36,1986-12-10T00:00:00Z,"Cotti, Flavio",Il Centro,1,163,67.36,1986-12-10T00:00:00Z
+"Brugger, Ernst",PLR,1,160,66.39,1969-12-10T00:00:00Z,"Brugger, Ernst",FDP,1,160,66.39,1969-12-10T00:00:00Z,"Brugger, Ernst",PLR,1,160,66.39,1969-12-10T00:00:00Z
+"Schlumpf, Leon",UDC,1,159,64.63,1979-12-05T00:00:00Z,"Schlumpf, Leon",SVP,1,159,64.63,1979-12-05T00:00:00Z,"Schlumpf, Leon",UDC,1,159,64.63,1979-12-05T00:00:00Z
+"Keller-Suter, Karin",PLR,1,154,63.37,2018-12-05T00:00:00Z,"Keller-Suter, Karin",FDP,1,154,63.37,2018-12-05T00:00:00Z,"Keller-Suter, Karin",PLR,1,154,63.37,2018-12-05T00:00:00Z
+"Felber, René",PS,1,152,62.81,1987-12-09T00:00:00Z,"Felber, René",SP,1,152,62.81,1987-12-09T00:00:00Z,"Felber, René",PS,1,152,62.81,1987-12-09T00:00:00Z
+"Spühler, Willy",PS,1,149,62.61,1959-12-17T00:00:00Z,"Spühler, Willy",SP,1,149,62.61,1959-12-17T00:00:00Z,"Spühler, Willy",PS,1,149,62.61,1959-12-17T00:00:00Z
+"von Moos, Ludwig",Le Centre,1,148,62.18,1959-12-17T00:00:00Z,"von Moos, Ludwig",Die Mitte,1,148,62.18,1959-12-17T00:00:00Z,"von Moos, Ludwig",Il Centro,1,148,62.18,1959-12-17T00:00:00Z
+"Ahmerd, Viola",Le Centre,1,148,60.66,2018-12-05T00:00:00Z,"Ahmerd, Viola",Die Mitte,1,148,60.66,2018-12-05T00:00:00Z,"Ahmerd, Viola",Il Centro,1,148,60.66,2018-12-05T00:00:00Z
+"Aubert, Pierre",PS,1,139,58.16,1977-12-07T00:00:00Z,"Aubert, Pierre",SP,1,139,58.16,1977-12-07T00:00:00Z,"Aubert, Pierre",PS,1,139,58.16,1977-12-07T00:00:00Z
+"Celio, Nello",PLR,1,136,57.63,1966-12-14T00:00:00Z,"Celio, Nello",FDP,1,136,57.63,1966-12-14T00:00:00Z,"Celio, Nello",PLR,1,136,57.63,1966-12-14T00:00:00Z
+"Chevallaz, Georges-André",PLR,1,137,56.85,1973-12-05T00:00:00Z,"Chevallaz, Georges-André",FDP,1,137,56.85,1973-12-05T00:00:00Z,"Chevallaz, Georges-André",PLR,1,137,56.85,1973-12-05T00:00:00Z
+"Bourgknecht, Jean",Le Centre,1,134,55.83,1959-12-17T00:00:00Z,"Bourgknecht, Jean",Die Mitte,1,134,55.83,1959-12-17T00:00:00Z,"Bourgknecht, Jean",Il Centro,1,134,55.83,1959-12-17T00:00:00Z
+"Leuthard, Doris",Le Centre,1,133,54.96,2006-06-14T00:00:00Z,"Leuthard, Doris",Die Mitte,1,133,54.96,2006-06-14T00:00:00Z,"Leuthard, Doris",Il Centro,1,133,54.96,2006-06-14T00:00:00Z
+"Hürlimann, Hans",Le Centre,1,132,54.77,1973-12-05T00:00:00Z,"Hürlimann, Hans",Die Mitte,1,132,54.77,1973-12-05T00:00:00Z,"Hürlimann, Hans",Il Centro,1,132,54.77,1973-12-05T00:00:00Z
+"Rösti, Albert",UDC,1,131,53.47,2022-12-07T00:00:00Z,"Rösti, Albert",SVP,1,131,53.47,2022-12-07T00:00:00Z,"Rösti, Albert",UDC,1,131,53.47,2022-12-07T00:00:00Z
