@@ -4,6 +4,7 @@ name,kanton,age_elec_integer,gewahlt,Nom et prénom,Age lors de l'élection,Part
 "Merz, Hans-Rudolf",AR,61,2003-12-10,"Merz, Hans-Rudolf",61,PLR,AR,2003-12-10,"Merz, Hans-Rudolf",61,FDP,AR,2003-12-10,"Merz, Hans-Rudolf",61,PLR,AR,2003-12-10
 "Honegger, Fritz",ZH,60,1977-12-07,"Honegger, Fritz",60,PLR,ZH,1977-12-07,"Honegger, Fritz",60,FDP,ZH,1977-12-07,"Honegger, Fritz",60,PLR,ZH,1977-12-07
 "Friedrich, Rudolf",ZH,59,1982-12-08,"Friedrich, Rudolf",59,PLR,ZH,1982-12-08,"Friedrich, Rudolf",59,FDP,ZH,1982-12-08,"Friedrich, Rudolf",59,PLR,ZH,1982-12-08
+"Jans, Beat",BS,59,2023-12-13,"Jans, Beat",59,PS,BS,2023-12-13,"Jans, Beat",59,SP,BS,2023-12-13,"Jans, Beat",59,PS,BS,2023-12-13
 "Chevallaz, Georges-André",VD,58,1973-12-05,"Chevallaz, Georges-André",58,PLR,VD,1973-12-05,"Chevallaz, Georges-André",58,FDP,VD,1973-12-05,"Chevallaz, Georges-André",58,PLR,VD,1973-12-05
 "Egli, Alphons",LU,58,1982-12-08,"Egli, Alphons",58,NA,LU,1982-12-08,"Egli, Alphons",58,Mitte,LU,1982-12-08,"Egli, Alphons",58,NA,LU,1982-12-08
 "Maurer, Ueli",ZH,58,2008-12-10,"Maurer, Ueli",58,UDC,ZH,2008-12-10,"Maurer, Ueli",58,SVP,ZH,2008-12-10,"Maurer, Ueli",58,UDC,ZH,2008-12-10
@@ -18,4 +19,3 @@ name,kanton,age_elec_integer,gewahlt,Nom et prénom,Age lors de l'élection,Part
 "Brugger, Ernst",ZH,55,1969-12-10,"Brugger, Ernst",55,PLR,ZH,1969-12-10,"Brugger, Ernst",55,FDP,ZH,1969-12-10,"Brugger, Ernst",55,PLR,ZH,1969-12-10
 "Ritschard, Willy",SO,55,1973-12-05,"Ritschard, Willy",55,PS,SO,1973-12-05,"Ritschard, Willy",55,SP,SO,1973-12-05,"Ritschard, Willy",55,PS,SO,1973-12-05
 "Hürlimann, Hans",ZG,55,1973-12-05,"Hürlimann, Hans",55,NA,ZG,1973-12-05,"Hürlimann, Hans",55,Mitte,ZG,1973-12-05,"Hürlimann, Hans",55,NA,ZG,1973-12-05
-"Couchepin, Pascal",VS,55,1998-03-11,"Couchepin, Pascal",55,PLR,VS,1998-03-11,"Couchepin, Pascal",55,FDP,VS,1998-03-11,"Couchepin, Pascal",55,PLR,VS,1998-03-11
