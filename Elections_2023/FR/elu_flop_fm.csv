@@ -1,21 +1,21 @@
-Nom et prénom,Date,Tour,Nombre de voix obtenues,Bulletins délivrés,Bulletins rentrés,Bulletins blancs,Bulletins nuls,Majorité absolue,Pourcentage des voix
-"Deiss, Joseph",1999-03-11T00:00:00Z,6,120,244,244,5,0,120,49.18
-"Schmid, Samuel",2000-12-06T00:00:00Z,6,121,244,244,10,2,117,49.59
-"Leuenberger, Moritz",1995-09-27T00:00:00Z,5,124,244,244,33,1,106,50.82
-"Calmy-Rey, Micheline",2002-12-04T00:00:00Z,5,131,245,244,44,1,100,53.69
-"Schneider-Ammann, Johann N.",2010-09-22T00:00:00Z,5,144,245,245,6,2,119,58.78
-"Couchepin, Pascal",1998-03-11T00:00:00Z,5,146,246,246,7,1,120,59.35
-"Bonvin, Roger",1962-09-07T00:00:00Z,5,142,234,233,4,2,114,60.94
-"Metzler-Arnold, Ruth",1999-03-11T00:00:00Z,4,126,245,244,0,0,123,51.64
-"Burkhalter, Didier",2009-09-16T00:00:00Z,4,129,245,245,5,1,120,52.65
-"Sommaruga, Simonetta",2010-09-22T00:00:00Z,4,159,245,245,3,2,121,64.9
-"Blocher, Christoph",2003-12-10T00:00:00Z,3,121,246,246,5,4,119,49.19
-"Maurer, Ueli",2008-12-10T00:00:00Z,3,122,244,244,1,0,122,50
-"Baume-Schneider, Elisabeth",2022-12-07T00:00:00Z,3,123,245,245,0,0,123,50.2
-"Tschudi, Hans-Peter",1959-12-17T00:00:00Z,3,129,235,235,5,0,116,54.89
-"Parmelin, Guy",2015-12-09T00:00:00Z,3,138,243,243,6,0,119,56.79
-"Dreifuss, Ruth",1993-03-10T00:00:00Z,3,144,229,228,38,0,96,63.16
-"Cassis, Ignazio",2017-09-20T00:00:00Z,2,125,246,246,2,0,123,50.81
-"Widmer-Schlumpf, Eveline",2007-12-12T00:00:00Z,2,125,246,246,4,0,122,50.81
-"Berset, Alain",2011-12-14T00:00:00Z,2,126,245,245,0,0,123,51.43
-"Merz, Hans-Rudolf",2003-12-10T00:00:00Z,2,127,244,244,5,0,120,52.05
+Nom et prénom,Cognome e nome,Name Vorname,Nombre de voix obtenues,Anzahl erhaltene Stimmen,Numero di voti ottenuti,Bulletins délivrés,Ausgeteilte Wahlzettel,Schede distribuite,Bulletins rentrés,Eingegangene Wahlzettel,Schede consegnate,Bulletins blancs,Leer,Schede in bianco,Bulletins nuls,Ungültig,Schede nulle,Majorité absolue,Absolutes Mehr,Maggioranza assoluta,Pourcentage des voix,Stimmenanteil,Percentuale di voti,Tour,Wahlgang,Turno,Date,Datum,Data d'elezione,Partei,Parti
+"Deiss, Joseph","Deiss, Joseph","Deiss, Joseph",120,120,120,244,244,244,244,244,244,5,5,5,0,0,5,120,120,120,49.18,49.18,49.18,6,6,6,1999-03-11T00:00:00Z,1999-03-11T00:00:00Z,1999-03-11T00:00:00Z,Die Mitte,Le Centre
+"Schmid, Samuel","Schmid, Samuel","Schmid, Samuel",121,121,121,244,244,244,244,244,244,10,10,10,2,2,10,117,117,117,49.59,49.59,49.59,6,6,6,2000-12-06T00:00:00Z,2000-12-06T00:00:00Z,2000-12-06T00:00:00Z,SVP,UDC
+"Leuenberger, Moritz","Leuenberger, Moritz","Leuenberger, Moritz",124,124,124,244,244,244,244,244,244,33,33,33,1,1,33,106,106,106,50.82,50.82,50.82,5,5,5,1995-09-27T00:00:00Z,1995-09-27T00:00:00Z,1995-09-27T00:00:00Z,SP,PS
+"Calmy-Rey, Micheline","Calmy-Rey, Micheline","Calmy-Rey, Micheline",131,131,131,245,245,245,244,244,244,44,44,44,1,1,44,100,100,100,53.69,53.69,53.69,5,5,5,2002-12-04T00:00:00Z,2002-12-04T00:00:00Z,2002-12-04T00:00:00Z,SP,PS
+"Schneider-Ammann, Johann N.","Schneider-Ammann, Johann N.","Schneider-Ammann, Johann N.",144,144,144,245,245,245,245,245,245,6,6,6,2,2,6,119,119,119,58.78,58.78,58.78,5,5,5,2010-09-22T00:00:00Z,2010-09-22T00:00:00Z,2010-09-22T00:00:00Z,FDP,PLR
+"Couchepin, Pascal","Couchepin, Pascal","Couchepin, Pascal",146,146,146,246,246,246,246,246,246,7,7,7,1,1,7,120,120,120,59.35,59.35,59.35,5,5,5,1998-03-11T00:00:00Z,1998-03-11T00:00:00Z,1998-03-11T00:00:00Z,FDP,PLR
+"Bonvin, Roger","Bonvin, Roger","Bonvin, Roger",142,142,142,234,234,234,233,233,233,4,4,4,2,2,4,114,114,114,60.94,60.94,60.94,5,5,5,1962-09-07T00:00:00Z,1962-09-07T00:00:00Z,1962-09-07T00:00:00Z,Die Mitte,Le Centre
+"Metzler-Arnold, Ruth","Metzler-Arnold, Ruth","Metzler-Arnold, Ruth",126,126,126,245,245,245,244,244,244,0,0,0,0,0,0,123,123,123,51.64,51.64,51.64,4,4,4,1999-03-11T00:00:00Z,1999-03-11T00:00:00Z,1999-03-11T00:00:00Z,Die Mitte,Le Centre
+"Burkhalter, Didier","Burkhalter, Didier","Burkhalter, Didier",129,129,129,245,245,245,245,245,245,5,5,5,1,1,5,120,120,120,52.65,52.65,52.65,4,4,4,2009-09-16T00:00:00Z,2009-09-16T00:00:00Z,2009-09-16T00:00:00Z,FDP,PLR
+"Sommaruga, Simonetta","Sommaruga, Simonetta","Sommaruga, Simonetta",159,159,159,245,245,245,245,245,245,3,3,3,2,2,3,121,121,121,64.9,64.9,64.9,4,4,4,2010-09-22T00:00:00Z,2010-09-22T00:00:00Z,2010-09-22T00:00:00Z,SVP,UDC
+"Blocher, Christoph","Blocher, Christoph","Blocher, Christoph",121,121,121,246,246,246,246,246,246,5,5,5,4,4,5,119,119,119,49.19,49.19,49.19,3,3,3,2003-12-10T00:00:00Z,2003-12-10T00:00:00Z,2003-12-10T00:00:00Z,SVP,UDC
+"Maurer, Ueli","Maurer, Ueli","Maurer, Ueli",122,122,122,244,244,244,244,244,244,1,1,1,0,0,1,122,122,122,50,50,50,3,3,3,2008-12-10T00:00:00Z,2008-12-10T00:00:00Z,2008-12-10T00:00:00Z,SVP,UDC
+"Baume-Schneider, Elisabeth","Baume-Schneider, Elisabeth","Baume-Schneider, Elisabeth",123,123,123,245,245,245,245,245,245,0,0,0,0,0,0,123,123,123,50.2,50.2,50.2,3,3,3,2022-12-07T00:00:00Z,2022-12-07T00:00:00Z,2022-12-07T00:00:00Z,SP,PS
+"Tschudi, Hans-Peter","Tschudi, Hans-Peter","Tschudi, Hans-Peter",129,129,129,235,235,235,235,235,235,5,5,5,0,0,5,116,116,116,54.89,54.89,54.89,3,3,3,1959-12-17T00:00:00Z,1959-12-17T00:00:00Z,1959-12-17T00:00:00Z,SP,PS
+"Jans, Beat","Jans, Beat","Jans, Beat",134,134,134,245,245,245,244,244,244,0,0,0,0,0,0,123,123,123,54.92,54.92,54.92,3,3,3,2023-12-13T00:00:00Z,2023-12-13T00:00:00Z,2023-12-13T00:00:00Z,SP,PS
+"Parmelin, Guy","Parmelin, Guy","Parmelin, Guy",138,138,138,243,243,243,243,243,243,6,6,6,0,0,6,119,119,119,56.79,56.79,56.79,3,3,3,2015-12-09T00:00:00Z,2015-12-09T00:00:00Z,2015-12-09T00:00:00Z,SVP,UDC
+"Dreifuss, Ruth","Dreifuss, Ruth","Dreifuss, Ruth",144,144,144,229,229,229,228,228,228,38,38,38,0,0,38,96,96,96,63.16,63.16,63.16,3,3,3,1993-03-10T00:00:00Z,1993-03-10T00:00:00Z,1993-03-10T00:00:00Z,SP,PS
+"Cassis, Ignazio","Cassis, Ignazio","Cassis, Ignazio",125,125,125,246,246,246,246,246,246,2,2,2,0,0,2,123,123,123,50.81,50.81,50.81,2,2,2,2017-09-20T00:00:00Z,2017-09-20T00:00:00Z,2017-09-20T00:00:00Z,FDP,PLR
+"Widmer-Schlumpf, Eveline","Widmer-Schlumpf, Eveline","Widmer-Schlumpf, Eveline",125,125,125,246,246,246,246,246,246,4,4,4,0,0,4,122,122,122,50.81,50.81,50.81,2,2,2,2007-12-12T00:00:00Z,2007-12-12T00:00:00Z,2007-12-12T00:00:00Z,BPD,PBD
+"Berset, Alain","Berset, Alain","Berset, Alain",126,126,126,245,245,245,245,245,245,0,0,0,0,0,0,123,123,123,51.43,51.43,51.43,2,2,2,2011-12-14T00:00:00Z,2011-12-14T00:00:00Z,2011-12-14T00:00:00Z,SP,PS
